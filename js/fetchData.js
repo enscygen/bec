@@ -3,11 +3,10 @@
 // Base URL of your GitHub Pages-hosted repository's JSON files
 const BASE_URL = "https://enscygen.github.io/bec/registry/";
 
-/**
- * Fetch and parse a JSON file from the registry folder.
- * @param {string} fileName - Name of the JSON file to fetch (e.g., "F.json").
- * @returns {Promise<Array>} - Parsed JSON data.
- */
+// Log a success message when the module is loaded
+console.log("BEC module successfully loaded");
+
+// Fetch and parse a JSON file from the registry folder.
 async function fetchJSON(fileName) {
     try {
         const response = await fetch(`${BASE_URL}${fileName}`);
@@ -21,10 +20,7 @@ async function fetchJSON(fileName) {
     }
 }
 
-/**
- * Fetch all registry data from the JSON files.
- * @returns {Promise<Object>} - An object with data from all registry files.
- */
+// Fetch all registry data from the JSON files.
 async function fetchRegistryData() {
     const fileNames = ["F.json", "B.json", "P.json", "V.json"]; // Add more file names as needed
     const registryData = {};
@@ -36,11 +32,7 @@ async function fetchRegistryData() {
     return registryData;
 }
 
-/**
- * Search the registry for matches by BEC ID or organism name.
- * @param {string} query - The BEC ID or partial organism name to search for.
- * @returns {Promise<Array>} - An array of matching organisms.
- */
+// Search the registry for matches by BEC ID or organism name.
 async function searchRegistry(query) {
     const registryData = await fetchRegistryData();
     const results = [];
