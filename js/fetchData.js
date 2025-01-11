@@ -2,6 +2,8 @@ const BASE_URL = "https://enscygen.github.io/bec/registry/";
 const VERSION = "v1.1";
 console.log(`BEC registry module ${VERSION}`);
 
+// Exporting the version number for the module
+export { VERSION };
 
 
 async function fetchJSON(fileName) {
