@@ -1,7 +1,7 @@
 // fetchData.js
 
-// Base URL of your GitHub repository's raw JSON files
-const BASE_URL = "https://raw.githubusercontent.com/enscygen/bec/main/registry/";
+// Base URL of your GitHub Pages-hosted repository's JSON files
+const BASE_URL = "https://enscygen.github.io/bec/registry/";
 
 /**
  * Fetch and parse a JSON file from the registry folder.
