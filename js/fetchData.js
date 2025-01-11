@@ -4,7 +4,7 @@
 const BASE_URL = "https://enscygen.github.io/bec/registry/";
 
 // Log a success message when the module is loaded
-console.log("BEC module successfully loaded");
+console.log("BEC module v1.1 successfully loaded");
 
 // Fetch and parse a JSON file from the registry folder.
 async function fetchJSON(fileName) {
@@ -42,7 +42,7 @@ async function searchRegistry(query) {
         results.push(
             ...data.filter(
                 (item) =>
-                    item.becId.toLowerCase() === lowerCaseQuery || // Exact match for BEC ID
+                    item.becId.toLowerCase().includes(lowerCaseQuery) || // Partial match for BEC ID
                     item.organismName.toLowerCase().includes(lowerCaseQuery) // Partial match for name
             )
         );
