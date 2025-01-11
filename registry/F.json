@@ -20,6 +20,7 @@
     {
         "becId": "F-40912-19-7",
         "organismName": "Saccharomyces cerevisiae",
+        "organismCommonName": "Yeast",
         "type": "Fungus",
         "description": "A yeast species used in baking, brewing, and scientific research."
     }
