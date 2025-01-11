@@ -49,3 +49,24 @@ async function searchRegistry(query) {
 }
 
 export { fetchJSON, fetchRegistryData, searchRegistry };
+
+
+export async function fetchOrganismDetails(becId) {
+    // Extract the type from the BEC ID (e.g., 'F' for fungi, 'B' for bacteria, etc.)
+    const type = becId.split('-')[0]; 
+
+    // Build the URL to fetch the JSON file from the correct folder
+    const url = `https://enscygen.github.io/bec/organism-details/${type}/${becId}.json`;
+
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error('Organism not found');
+        }
+        const data = await response.json();
+        return data;  // Return the organism data
+    } catch (error) {
+        console.error('Error fetching organism details:', error);
+        return null;
+    }
+}
