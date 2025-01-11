@@ -1,0 +1,20 @@
+[
+    {
+        "becId": "P-30001-10-3",
+        "organismName": "Arabidopsis thaliana",
+        "type": "Plant",
+        "description": "Arabidopsis thaliana is a small flowering plant related to cabbage and mustard, widely used in plant research."
+    },
+    {
+        "becId": "P-30002-10-3",
+        "organismName": "Rice (Oryza sativa)",
+        "type": "Plant",
+        "description": "Oryza sativa is the species of rice that is most commonly cultivated for human consumption around the world."
+    },
+    {
+        "becId": "P-30003-10-3",
+        "organismName": "Tomato (Solanum lycopersicum)",
+        "type": "Plant",
+        "description": "Solanum lycopersicum, commonly known as tomato, is a widely cultivated crop and a major source of food."
+    }
+]
