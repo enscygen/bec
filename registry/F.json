@@ -1,0 +1,26 @@
+[
+    {
+        "becId": "F-10982-23-2",
+        "organismName": "Aspergillus niger",
+        "type": "Fungus",
+        "description": "A common filamentous fungus used in industrial fermentation."
+    },
+    {
+        "becId": "F-20394-12-4",
+        "organismName": "Candida albicans",
+        "type": "Fungus",
+        "description": "A yeast that can cause infections in humans, commonly known as candidiasis."
+    },
+    {
+        "becId": "F-30281-45-1",
+        "organismName": "Penicillium chrysogenum",
+        "type": "Fungus",
+        "description": "A mold species widely known for producing the antibiotic penicillin."
+    },
+    {
+        "becId": "F-40912-19-7",
+        "organismName": "Saccharomyces cerevisiae",
+        "type": "Fungus",
+        "description": "A yeast species used in baking, brewing, and scientific research."
+    }
+]
