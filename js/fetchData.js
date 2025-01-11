@@ -40,7 +40,8 @@ async function searchRegistry(query) {
             ...data.filter(
                 (item) =>
                     item.becId.toLowerCase().includes(lowerCaseQuery) || // Partial match for BEC ID
-                    item.organismName.toLowerCase().includes(lowerCaseQuery) // Partial match for name
+                    item.organismName.toLowerCase().includes(lowerCaseQuery) || // Partial match for organism name
+                    (item.organismCommonName && item.organismCommonName.toLowerCase().includes(lowerCaseQuery)) // Partial match for common name, if it exists
             )
         );
     }
