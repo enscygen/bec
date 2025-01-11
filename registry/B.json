@@ -1,0 +1,20 @@
+[
+    {
+        "becId": "B-20001-15-2",
+        "organismName": "Escherichia coli",
+        "type": "Bacteria",
+        "description": "Escherichia coli is a common bacterium found in the intestines of warm-blooded organisms, and some strains can cause food poisoning."
+    },
+    {
+        "becId": "B-20002-15-2",
+        "organismName": "Bacillus anthracis",
+        "type": "Bacteria",
+        "description": "Bacillus anthracis is a bacterium that causes anthrax, a serious infectious disease in animals and humans."
+    },
+    {
+        "becId": "B-20003-15-2",
+        "organismName": "Streptococcus pneumoniae",
+        "type": "Bacteria",
+        "description": "Streptococcus pneumoniae is a bacterium that causes pneumonia, meningitis, and other infections, particularly in children and the elderly."
+    }
+]
