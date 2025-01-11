@@ -4,7 +4,7 @@
 const BASE_URL = "https://enscygen.github.io/bec/registry/";
 
 // Log a success message when the module is loaded
-console.log("BEC module v1.1 successfully loaded");
+console.log("BEC registry module v1.1");
 
 // Fetch and parse a JSON file from the registry folder.
 async function fetchJSON(fileName) {
