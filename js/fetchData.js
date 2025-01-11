@@ -1,12 +1,9 @@
-// fetchData.js
-
-// Base URL of your GitHub Pages-hosted repository's JSON files
 const BASE_URL = "https://enscygen.github.io/bec/registry/";
+const VERSION = "v1.1";
+console.log(`BEC registry module ${VERSION}`);
 
-// Log a success message when the module is loaded
-console.log("BEC registry module v1.1");
 
-// Fetch and parse a JSON file from the registry folder.
+
 async function fetchJSON(fileName) {
     try {
         const response = await fetch(`${BASE_URL}${fileName}`);
@@ -20,9 +17,9 @@ async function fetchJSON(fileName) {
     }
 }
 
-// Fetch all registry data from the JSON files.
+
 async function fetchRegistryData() {
-    const fileNames = ["F.json", "B.json", "P.json", "V.json"]; // Add more file names as needed
+    const fileNames = ["F.json", "B.json", "P.json", "V.json"];
     const registryData = {};
 
     for (const fileName of fileNames) {
