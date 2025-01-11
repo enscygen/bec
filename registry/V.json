@@ -1,0 +1,20 @@
+[
+    {
+        "becId": "V-10001-21-1",
+        "organismName": "Adenovirus",
+        "type": "Virus",
+        "description": "Adenoviruses are medium-sized, non-enveloped viruses with a double-stranded DNA genome."
+    },
+    {
+        "becId": "V-10002-21-1",
+        "organismName": "Influenza A virus",
+        "type": "Virus",
+        "description": "Influenza A is a virus that can cause seasonal flu outbreaks in humans and animals."
+    },
+    {
+        "becId": "V-10003-21-1",
+        "organismName": "Zika virus",
+        "type": "Virus",
+        "description": "Zika virus is primarily transmitted by Aedes mosquitoes and is associated with birth defects in infants."
+    }
+]
