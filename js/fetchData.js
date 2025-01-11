@@ -57,7 +57,7 @@ export async function fetchOrganismDetails(becId) {
     const type = becId.split('-')[0]; 
 
     // Build the URL to fetch the JSON file from the correct folder
-    const url = `https://enscygen.github.io/bec/organism-details/${type}/${becId}.json`;
+    const url = `https://enscygen.github.io/bec/details/${type}/${becId}.json`;
 
     try {
         const response = await fetch(url);
@@ -67,7 +67,7 @@ export async function fetchOrganismDetails(becId) {
         const data = await response.json();
         return data;  // Return the organism data
     } catch (error) {
-        console.error('Error fetching organism details:', error);
+        console.error('Error fetching BEC details:', error);
         return null;
     }
 }
