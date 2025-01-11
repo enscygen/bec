@@ -1,0 +1,19 @@
+{
+    "becId": "F-10982-23-2",
+    "organismName": "Aspergillus niger",
+    "organismCommonName": "Black Mold",
+    "type": "Fungus",
+    "description": "A common filamentous fungus used in industrial fermentation. It is known for producing citric acid and enzymes such as amylase and protease.",
+    "habitat": "Aspergillus niger is commonly found in decaying plant material, soil, and food products.",
+    "importance": "This fungus is widely used in biotechnology, food production, and pharmaceuticals, especially in the production of enzymes and organic acids.",
+    "scientificClassification": {
+        "kingdom": "Fungi",
+        "phylum": "Ascomycota",
+        "class": "Eurotiomycetes",
+        "order": "Eurotiales",
+        "family": "Trichocomaceae",
+        "genus": "Aspergillus",
+        "species": "A. niger"
+    },
+    "additionalNotes": "Aspergillus niger is also known for its ability to cause black mold growth on food and other organic materials, which can be harmful in certain environments."
+}
