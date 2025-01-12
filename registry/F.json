@@ -48,13 +48,7 @@
     "type": "Fungus",
     "description": "A parasitic fungus that grows on rye and other cereals, producing alkaloids that are toxic to humans and livestock."
 },
-{
-    "becId": "F-131-11",
-    "organismName": "Candidatus Liberibacter asiaticus",
-    "organismCommonName": "Citrus Greening Bacterium",
-    "type": "Fungus",
-    "description": "A bacterial pathogen of citrus plants, responsible for citrus greening disease."
-},
+
 {
     "becId": "F-139-11",
     "organismName": "Cordana wernhamii",
