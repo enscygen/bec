@@ -152,7 +152,71 @@
     "organismCommonName": "Soybean",
     "type": "Plant",
     "description": "A leguminous crop grown for its high-protein seeds, widely used in food products like tofu, soy milk, and oil."
+},
+    {
+    "becId": "P-432-11-2",
+    "organismName": "Amorphophallus paeoniifolius",
+    "organismCommonName": "Elephant foot yam",
+    "type": "Plant",
+    "description": "A species of yam with a large, bulbous root used in traditional cuisine, known for its medicinal properties."
+},
+{
+    "becId": "P-453-11-2",
+    "organismName": "Xanthosoma sagittifolium",
+    "organismCommonName": "Xanthosoma",
+    "type": "Plant",
+    "description": "A tropical plant with edible tubers, also known as malanga, commonly used in Caribbean and African cuisines."
+},
+{
+    "becId": "P-474-11-2",
+    "organismName": "Colocasia esculenta",
+    "organismCommonName": "Colocasia",
+    "type": "Plant",
+    "description": "A species of plant cultivated for its starchy tubers, also known as taro, widely used in various cuisines worldwide."
+},
+{
+    "becId": "P-495-11-2",
+    "organismName": "Dioscorea alata",
+    "organismCommonName": "Greater yam",
+    "type": "Plant",
+    "description": "A species of yam known for its large, starchy tubers, commonly grown in Asia, Africa, and the Pacific Islands."
+},
+{
+    "becId": "P-516-11-4",
+    "organismName": "Dioscorea esculenta",
+    "organismCommonName": "Lesser yam",
+    "type": "Plant",
+    "description": "A variety of yam known for its smaller, softer tubers, often grown in Southeast Asia and the Pacific Islands."
+},
+{
+    "becId": "P-537-11-4",
+    "organismName": "Dioscorea rotundata",
+    "organismCommonName": "White yam",
+    "type": "Plant",
+    "description": "A species of yam widely cultivated in West Africa, known for its white-fleshed tubers used in traditional dishes."
+},
+{
+    "becId": "P-558-11-4",
+    "organismName": "Ipomoea batatas",
+    "organismCommonName": "Sweet potato",
+    "type": "Plant",
+    "description": "A species of root vegetable with sweet-tasting tubers, used in a variety of culinary dishes worldwide."
+},
+{
+    "becId": "P-579-11-4",
+    "organismName": "Manihot esculenta",
+    "organismCommonName": "Tapioca",
+    "type": "Plant",
+    "description": "A species of root vegetable known for its starchy tubers, used to produce tapioca pearls and flour."
+},
+{
+    "becId": "P-600-11-9",
+    "organismName": "Coleus forskohlii",
+    "organismCommonName": "Coleus",
+    "type": "Plant",
+    "description": "A tropical plant known for its medicinal properties, often used in traditional medicine for its active compound, forskolin."
 }
+
 
 
 ]
