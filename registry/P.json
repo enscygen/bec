@@ -26,5 +26,62 @@
         "organismCommonName": "Javanica rice",
         "type": "Plant",
         "description": "A subspecies of rice found mainly in Southeast Asia, with characteristics of both indica and japonica rice."
-    }
+    },
+    {
+    "becId": "P-121-11-9",
+    "organismName": "Zea mays",
+    "organismCommonName": "Maize",
+    "type": "Plant",
+    "description": "A cereal plant grown for its edible grains, commonly known as corn, native to Central America."
+},
+{
+    "becId": "P-121-12-5",
+    "organismName": "Zea mays var. indentata",
+    "organismCommonName": "Dent corn",
+    "type": "Plant",
+    "description": "A variety of maize known for its deep indentation at the crown of the kernel, primarily used for animal feed and industrial products."
+},
+{
+    "becId": "P-121-13-1",
+    "organismName": "Zea mays var. saccharata",
+    "organismCommonName": "Sweet corn",
+    "type": "Plant",
+    "description": "A variety of maize with a higher sugar content, commonly consumed as a vegetable in its immature form."
+},
+{
+    "becId": "P-121-14-7",
+    "organismName": "Zea mays var. amylacea",
+    "organismCommonName": "Flint corn",
+    "type": "Plant",
+    "description": "A variety of maize known for its hard, glassy kernels, commonly grown for flour production and certain traditional dishes."
+},
+{
+    "becId": "P-121-15-3",
+    "organismName": "Zea mays var. ceratina",
+    "organismCommonName": "Waxy corn",
+    "type": "Plant",
+    "description": "A variety of maize that produces waxy starch, used in the production of adhesives, coatings, and other industrial products."
+},
+{
+    "becId": "P-121-16-9",
+    "organismName": "Zea mays var. everta",
+    "organismCommonName": "Popcorn",
+    "type": "Plant",
+    "description": "A variety of maize known for its ability to pop when heated, grown specifically for popcorn production."
+},
+{
+    "becId": "P-121-17-5",
+    "organismName": "Zea mays var. microsperma",
+    "organismCommonName": "Teosinte",
+    "type": "Plant",
+    "description": "A wild ancestor of maize, native to Mexico and Central America, known for its small and hard kernels."
+},
+{
+    "becId": "P-121-18-1",
+    "organismName": "Zea mays var. rugosa",
+    "organismCommonName": "Pod corn",
+    "type": "Plant",
+    "description": "A rare variety of maize where each kernel is enclosed in a husk, often used for ornamental purposes."
+}
+
 ]
