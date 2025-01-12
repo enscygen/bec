@@ -1,5 +1,5 @@
 {
-    "becId": "F-10982-23-2",
+    "becId": "F-24-11-1",
     "organismName": "Aspergillus niger",
     "organismCommonName": "Black Mold",
     "type": "Fungus",
@@ -15,5 +15,64 @@
         "genus": "Aspergillus",
         "species": "A. niger"
     },
-    "additionalNotes": "Aspergillus niger is also known for its ability to cause black mold growth on food and other organic materials, which can be harmful in certain environments."
+    "otherNames": [
+        {
+            "name": "Telomorph",
+            "definition": "The sexual reproductive stage (morph) of a fungus, in contrast to the asexual stage (anamorph)."
+        },
+        {
+            "name": "Aspergillus awamori",
+            "definition": "A variant or subspecies name historically used for certain strains of Aspergillus niger."
+        },
+        {
+            "name": "Sterigmatocystis niger",
+            "definition": "An older name once used to refer to Aspergillus niger before its reclassification."
+        }
+    ],
+    "otherRelatedSpeciesBECID": [
+        {
+            "becId": "F-10982-23-3",
+            "relation": "Genus member"
+        },
+        {
+            "becId": "F-10982-23-4",
+            "relation": "Genus member"
+        }
+    ],
+    "previousOrRetractedBECIDs": [
+        "F-10001-20-1",
+        "F-10321-21-5"
+    ],
+    "images": {
+        "mainImages": [
+            {
+                "url": "https://example.com/images/aspergillus-niger-main.jpg",
+                "caption": "Microscopic view of Aspergillus niger"
+            },
+            {
+                "url": "https://example.com/images/aspergillus-niger-colony.jpg",
+                "caption": "Colony morphology of Aspergillus niger"
+            }
+        ],
+        "subImages": [
+            {
+                "url": "https://example.com/images/aspergillus-niger-fermentation.jpg",
+                "caption": "Industrial fermentation process using Aspergillus niger"
+            },
+            {
+                "url": "https://example.com/images/aspergillus-niger-growth.jpg",
+                "caption": "Aspergillus niger growing on bread"
+            }
+        ]
+    },
+    "linksToOtherDatabases": [
+        {
+            "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5061",
+            "caption": "NCBI Taxonomy Browser for Aspergillus niger"
+        },
+        {
+            "url": "https://fungi.myspecies.info/taxonomy/term/126",
+            "caption": "Fungi Online Database Entry for Aspergillus niger"
+        }
+    ]
 }
