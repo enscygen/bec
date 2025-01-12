@@ -271,7 +271,623 @@
     "organismCommonName": "Sesame",
     "type": "Plant",
     "description": "A flowering plant grown for its seeds, which are used in cooking, oil production, and various food products."
+},
+    {
+    "becId": "P-1012-11",
+    "organismName": "Elettaria cardamomum",
+    "organismCommonName": "Cardamom",
+    "type": "Plant",
+    "description": "A spice derived from the seeds of the cardamom plant, widely used in cooking and traditional medicine."
+},
+{
+    "becId": "P-1015-11",
+    "organismName": "Cinnamomum verum",
+    "organismCommonName": "Cinnamon",
+    "type": "Plant",
+    "description": "A spice obtained from the inner bark of trees from the genus Cinnamomum, used in both sweet and savory dishes."
+},
+{
+    "becId": "P-1018-11",
+    "organismName": "Syzygium aromaticum",
+    "organismCommonName": "Clove",
+    "type": "Plant",
+    "description": "A spice made from the dried flower buds of the clove tree, used in cooking and for medicinal purposes."
+},
+{
+    "becId": "P-1021-11",
+    "organismName": "Vanilla planifolia",
+    "organismCommonName": "Vanilla",
+    "type": "Plant",
+    "description": "A tropical climbing plant that produces vanilla beans, used as a flavoring in various food products."
+},
+{
+    "becId": "P-1024-11",
+    "organismName": "Zingiber officinale",
+    "organismCommonName": "Ginger",
+    "type": "Plant",
+    "description": "A flowering plant known for its aromatic rhizome, used as a spice and for medicinal purposes."
+},
+{
+    "becId": "P-1027-11",
+    "organismName": "Curcuma amada",
+    "organismCommonName": "Mango ginger",
+    "type": "Plant",
+    "description": "A plant with rhizomes that taste like mango, used in traditional cuisine and for medicinal purposes."
+},
+{
+    "becId": "P-1030-11",
+    "organismName": "Myristica fragrans",
+    "organismCommonName": "Nutmeg",
+    "type": "Plant",
+    "description": "A spice obtained from the seed of the nutmeg tree, used in baking and cooking."
+},
+{
+    "becId": "P-1033-11",
+    "organismName": "Piper nigrum",
+    "organismCommonName": "Black Pepper",
+    "type": "Plant",
+    "description": "A flowering vine that produces peppercorns, the dried fruit of which is used as a spice."
+},
+{
+    "becId": "P-1036-11",
+    "organismName": "Curcuma longa",
+    "organismCommonName": "Turmeric",
+    "type": "Plant",
+    "description": "A bright yellow spice derived from the root of the turmeric plant, used in cooking and for its medicinal properties."
+},
+{
+    "becId": "P-1039-11",
+    "organismName": "Garcinia cambogia",
+    "organismCommonName": "Camboge",
+    "type": "Plant",
+    "description": "A tropical fruit used in traditional medicine and as a weight loss supplement."
+},
+{
+    "becId": "P-1042-11",
+    "organismName": "Tamarindus indica",
+    "organismCommonName": "Tamarind",
+    "type": "Plant",
+    "description": "A leguminous tree that produces a sour and tangy fruit, widely used in culinary dishes and for its medicinal benefits."
+},
+    {
+    "becId": "P-1045-11",
+    "organismName": "Areca catechu",
+    "organismCommonName": "Arecanut",
+    "type": "Plant",
+    "description": "A tropical palm known for its seed, the arecanut, commonly used in betel chewing and for medicinal purposes."
+},
+{
+    "becId": "P-1048-11",
+    "organismName": "Piper betle",
+    "organismCommonName": "Betel Vine",
+    "type": "Plant",
+    "description": "A vine whose leaves are chewed with arecanut, commonly used in Southeast Asia for its stimulant properties."
+},
+{
+    "becId": "P-1051-11",
+    "organismName": "Theobroma cacao",
+    "organismCommonName": "Cocoa",
+    "type": "Plant",
+    "description": "A small evergreen tree whose seeds are used to produce chocolate, cocoa butter, and other food products."
+},
+{
+    "becId": "P-1054-11",
+    "organismName": "Coffea arabica",
+    "organismCommonName": "Coffee",
+    "type": "Plant",
+    "description": "A species of coffee plant, known for its high-quality beans, widely cultivated for coffee production."
+},
+{
+    "becId": "P-1057-11",
+    "organismName": "Camellia sinensis",
+    "organismCommonName": "Tea",
+    "type": "Plant",
+    "description": "A species of evergreen shrub whose leaves are harvested to produce tea, one of the world's most popular beverages."
+},
+{
+    "becId": "P-1060-11",
+    "organismName": "Nicotiana tabacum",
+    "organismCommonName": "Tobacco",
+    "type": "Plant",
+    "description": "A plant grown for its leaves, which are processed to make tobacco products, primarily used for smoking and snuff."
+},
+    {
+    "becId": "P-1063-11",
+    "organismName": "Amaranthus spp.",
+    "organismCommonName": "Amaranthus",
+    "type": "Plant",
+    "description": "A genus of plants used for leaf vegetables, grains, and ornamental purposes."
+},
+{
+    "becId": "P-1066-11",
+    "organismName": "Abelmoschus esculentus",
+    "organismCommonName": "Okra",
+    "type": "Plant",
+    "description": "A flowering plant known for its edible green seed pods used in various cuisines."
+},
+{
+    "becId": "P-1069-11",
+    "organismName": "Momordica charantia",
+    "organismCommonName": "Bitter Gourd",
+    "type": "Plant",
+    "description": "A vine with edible, warty, green fruit, widely used in various dishes for its bitter taste."
+},
+{
+    "becId": "P-1072-11",
+    "organismName": "Trichosanthes cucumerina",
+    "organismCommonName": "Snake Gourd",
+    "type": "Plant",
+    "description": "A gourd-like vegetable known for its edible, long, snake-shaped fruit."
+},
+{
+    "becId": "P-1075-11",
+    "organismName": "Cucumis sativus",
+    "organismCommonName": "Cucumber",
+    "type": "Plant",
+    "description": "A widely cultivated plant known for its crisp, refreshing fruit used in salads and pickles."
+},
+{
+    "becId": "P-1078-11",
+    "organismName": "Cucumis melo",
+    "organismCommonName": "Oriental Picking Melon",
+    "type": "Plant",
+    "description": "A variety of melon with a sweet flavor, often used in Asian cuisine."
+},
+{
+    "becId": "P-1081-11",
+    "organismName": "Citrullus lanatus",
+    "organismCommonName": "Water Melon",
+    "type": "Plant",
+    "description": "A vine-like flowering plant that produces large, sweet, and juicy fruit."
+},
+{
+    "becId": "P-1084-11",
+    "organismName": "Lagenaria siceraria",
+    "organismCommonName": "Bottle Gourd",
+    "type": "Plant",
+    "description": "A type of gourd known for its smooth, green or white fruit used in soups and curries."
+},
+{
+    "becId": "P-1087-11",
+    "organismName": "Cucurbita pepo",
+    "organismCommonName": "Pumpkin",
+    "type": "Plant",
+    "description": "A widely cultivated plant known for its large, edible fruit used in cooking and baking."
+},
+{
+    "becId": "P-1090-11",
+    "organismName": "Benincasa hispida",
+    "organismCommonName": "Ash Gourd",
+    "type": "Plant",
+    "description": "A type of gourd with a thick white flesh used in soups, stir-fries, and desserts."
+},
+    {
+    "becId": "P-1093-11",
+    "organismName": "Solanum melongena",
+    "organismCommonName": "Brinjal",
+    "type": "Plant",
+    "description": "A popular vegetable known for its purple, oval-shaped fruit used in various culinary dishes."
+},
+{
+    "becId": "P-1096-11",
+    "organismName": "Capsicum annuum",
+    "organismCommonName": "Chilli",
+    "type": "Plant",
+    "description": "A fruit-bearing plant used for its spicy, pungent fruit in cooking, commonly used in hot sauces and seasonings."
+},
+{
+    "becId": "P-1099-11",
+    "organismName": "Solanum lycopersicum",
+    "organismCommonName": "Tomato",
+    "type": "Plant",
+    "description": "A flowering plant known for its red, juicy fruit, widely used in sauces, salads, and many dishes."
+},
+{
+    "becId": "P-1102-11",
+    "organismName": "Vigna unguiculata",
+    "organismCommonName": "Vegetable Cowpea",
+    "type": "Plant",
+    "description": "A leguminous plant grown for its edible pods and beans used in various dishes."
+},
+{
+    "becId": "P-1105-11",
+    "organismName": "Brassica oleracea var. capitata",
+    "organismCommonName": "Cabbage",
+    "type": "Plant",
+    "description": "A leafy green vegetable known for its dense, leafy head, used in salads, soups, and coleslaw."
+},
+{
+    "becId": "P-1108-11",
+    "organismName": "Brassica oleracea var. botrytis",
+    "organismCommonName": "Cauliflower",
+    "type": "Plant",
+    "description": "A variety of cabbage, known for its white, edible inflorescence used in many dishes."
+},
+{
+    "becId": "P-1111-11",
+    "organismName": "Daucus carota",
+    "organismCommonName": "Carrot",
+    "type": "Plant",
+    "description": "A root vegetable known for its orange color and sweetness, commonly used in cooking and salads."
+},
+{
+    "becId": "P-1114-11",
+    "organismName": "Beta vulgaris",
+    "organismCommonName": "Beetroot",
+    "type": "Plant",
+    "description": "A root vegetable known for its purple color and earthy flavor, often used in salads and juices."
+},
+{
+    "becId": "P-1117-11",
+    "organismName": "Raphanus sativus",
+    "organismCommonName": "Radish",
+    "type": "Plant",
+    "description": "A fast-growing root vegetable known for its crisp texture and peppery taste, often used in salads."
+},
+{
+    "becId": "P-1120-11",
+    "organismName": "Solanum tuberosum",
+    "organismCommonName": "Potato",
+    "type": "Plant",
+    "description": "A starchy tuber used widely in cooking for mashed potatoes, fries, and various other dishes."
+},
+{
+    "becId": "P-1123-11",
+    "organismName": "Allium cepa",
+    "organismCommonName": "Onion",
+    "type": "Plant",
+    "description": "A vegetable with a strong aroma used widely in cooking to enhance flavor."
+},
+{
+    "becId": "P-1126-11",
+    "organismName": "Allium sativum",
+    "organismCommonName": "Garlic",
+    "type": "Plant",
+    "description": "A species of bulbous plants used for its strong aroma and flavor in cooking and for medicinal purposes."
+},
+{
+    "becId": "P-1129-11",
+    "organismName": "Dolichos lablab",
+    "organismCommonName": "Dolichos Bean",
+    "type": "Plant",
+    "description": "A leguminous plant grown for its edible beans and pods, used in many cuisines."
+},
+{
+    "becId": "P-1132-11",
+    "organismName": "Vigna unguiculata",
+    "organismCommonName": "Winged Bean",
+    "type": "Plant",
+    "description": "A leguminous plant grown for its edible leaves, flowers, seeds, and roots."
+},
+{
+    "becId": "P-1135-11",
+    "organismName": "Cyamopsis tetragonoloba",
+    "organismCommonName": "Cluster Bean",
+    "type": "Plant",
+    "description": "A drought-tolerant legume grown for its edible pods, seeds, and as a fodder crop."
+},
+{
+    "becId": "P-1138-11",
+    "organismName": "Canavalia gladiata",
+    "organismCommonName": "Sword Bean",
+    "type": "Plant",
+    "description": "A leguminous plant with large, flat seeds, used for culinary and medicinal purposes."
+},
+{
+    "becId": "P-1141-11",
+    "organismName": "Canavalia ensiformis",
+    "organismCommonName": "Jack Bean",
+    "type": "Plant",
+    "description": "A legume grown for its edible seeds, used in various dishes and as a forage crop."
+},
+{
+    "becId": "P-1144-11",
+    "organismName": "Phaseolus lunatus",
+    "organismCommonName": "Clove Bean",
+    "type": "Plant",
+    "description": "A legume known for its edible seeds and used in cooking in various cultures."
+},
+{
+    "becId": "P-1147-11",
+    "organismName": "Coccinia grandis",
+    "organismCommonName": "Ivy Gourd",
+    "type": "Plant",
+    "description": "A climbing plant with small, edible fruit used in curries and stir-fries."
+},
+{
+    "becId": "P-1150-11",
+    "organismName": "Luffa cylindrica",
+    "organismCommonName": "Smooth Gourd",
+    "type": "Plant",
+    "description": "A plant known for its fibrous fruit, often used in sponges and as a vegetable."
+},
+{
+    "becId": "P-1153-11",
+    "organismName": "Luffa acutangula",
+    "organismCommonName": "Ridge Gourd",
+    "type": "Plant",
+    "description": "A fast-growing gourd plant with ridged fruits commonly used in soups and curries."
+},
+{
+    "becId": "P-1156-11",
+    "organismName": "Capsicum annuum",
+    "organismCommonName": "Bell Pepper",
+    "type": "Plant",
+    "description": "A fruiting plant known for its colorful, sweet peppers commonly used in cooking."
+},
+{
+    "becId": "P-1159-11",
+    "organismName": "Moringa oleifera",
+    "organismCommonName": "Drumstick",
+    "type": "Plant",
+    "description": "A tree known for its edible pods, leaves, and seeds, valued for its nutritional and medicinal properties."
+},
+{
+    "becId": "P-1162-11",
+    "organismName": "Basella alba",
+    "organismCommonName": "Indian Spinach",
+    "type": "Plant",
+    "description": "A fast-growing vine with edible leaves, widely consumed as a leafy vegetable."
+},
+{
+    "becId": "P-1165-11",
+    "organismName": "Murraya koenigii",
+    "organismCommonName": "Curry Leaf",
+    "type": "Plant",
+    "description": "A small tree whose aromatic leaves are used as a herb in Indian cuisine."
+},
+    {
+    "becId": "P-1180-11",
+    "organismName": "Musa spp.",
+    "organismCommonName": "Banana",
+    "type": "Plant",
+    "description": "A tropical fruit-bearing plant known for its elongated yellow fruit, rich in potassium."
+},
+{
+    "becId": "P-1183-11",
+    "organismName": "Psidium guajava",
+    "organismCommonName": "Guava",
+    "type": "Plant",
+    "description": "A tropical fruit-bearing plant known for its sweet, tangy fruit, often eaten raw or used in juices."
+},
+{
+    "becId": "P-1186-11",
+    "organismName": "Phyllanthus emblica",
+    "organismCommonName": "Indian Gooseberry",
+    "type": "Plant",
+    "description": "A deciduous tree known for its sour, green fruit, often used in traditional medicine."
+},
+{
+    "becId": "P-1189-11",
+    "organismName": "Artocarpus heterophyllus",
+    "organismCommonName": "Jack",
+    "type": "Plant",
+    "description": "A tropical fruit tree known for its large, jackfruit, used for its sweet, fibrous fruit."
+},
+{
+    "becId": "P-1192-11",
+    "organismName": "Citrus reticulata",
+    "organismCommonName": "Mandarin Orange",
+    "type": "Plant",
+    "description": "A small citrus tree known for its sweet, easy-to-peel fruit."
+},
+{
+    "becId": "P-1195-11",
+    "organismName": "Mangifera indica",
+    "organismCommonName": "Mango",
+    "type": "Plant",
+    "description": "A tropical fruit-bearing tree known for its sweet, juicy fruit, commonly referred to as the 'king of fruits.'"
+},
+{
+    "becId": "P-1198-11",
+    "organismName": "Carica papaya",
+    "organismCommonName": "Papaya",
+    "type": "Plant",
+    "description": "A tropical fruit-bearing tree known for its soft, orange fruit with a sweet flavor."
+},
+{
+    "becId": "P-1201-11",
+    "organismName": "Ananas comosus",
+    "organismCommonName": "Pineapple",
+    "type": "Plant",
+    "description": "A tropical fruit plant known for its sweet, tangy fruit with a rough, spiky exterior."
+},
+{
+    "becId": "P-1204-11",
+    "organismName": "Manilkara zapota",
+    "organismCommonName": "Sapota",
+    "type": "Plant",
+    "description": "A tropical tree known for its sweet, brown fruit with a grainy texture, also known as chikoo."
+},
+{
+    "becId": "P-1207-11",
+    "organismName": "Fragaria × ananassa",
+    "organismCommonName": "Strawberry",
+    "type": "Plant",
+    "description": "A widely cultivated fruit-bearing plant known for its sweet, red, and juicy fruit."
+},
+{
+    "becId": "P-1210-11",
+    "organismName": "Malpighia emarginata",
+    "organismCommonName": "West Indian Cherry",
+    "type": "Plant",
+    "description": "A small tropical tree known for its tart, cherry-like fruit rich in vitamin C."
+},
+{
+    "becId": "P-1213-11",
+    "organismName": "Malus domestica",
+    "organismCommonName": "Apple",
+    "type": "Plant",
+    "description": "A deciduous tree known for its round, crisp fruit, which comes in a variety of flavors and is widely cultivated."
+},
+    {
+    "becId": "P-1216-11",
+    "organismName": "Anthurium andraeanum",
+    "organismCommonName": "Anthurium",
+    "type": "Plant",
+    "description": "A tropical flowering plant known for its brightly colored spathes and ornamental appeal."
+},
+{
+    "becId": "P-1219-11",
+    "organismName": "Orchidaceae spp.",
+    "organismCommonName": "Orchid",
+    "type": "Plant",
+    "description": "A diverse family of flowering plants known for their unique and beautiful flowers."
+},
+{
+    "becId": "P-1222-11",
+    "organismName": "Jasminum sambac",
+    "organismCommonName": "Jasmine",
+    "type": "Plant",
+    "description": "A fragrant flowering plant widely cultivated for its aromatic flowers, often used in perfumes."
+},
+{
+    "becId": "P-1225-11",
+    "organismName": "Gladiolus hortulanus",
+    "organismCommonName": "Gladiolus",
+    "type": "Plant",
+    "description": "A genus of flowering plants known for their tall spikes of colorful flowers, often used in floral arrangements."
+},
+{
+    "becId": "P-1228-11",
+    "organismName": "Polianthes tuberosa",
+    "organismCommonName": "Tuberose",
+    "type": "Plant",
+    "description": "A perennial plant known for its highly fragrant white flowers, often used in perfumes."
+},
+{
+    "becId": "P-1231-11",
+    "organismName": "Crossandra infundibuliformis",
+    "organismCommonName": "Crossandra",
+    "type": "Plant",
+    "description": "A flowering plant known for its bright, orange to yellow tubular flowers."
+},
+{
+    "becId": "P-1234-11",
+    "organismName": "Tagetes erecta",
+    "organismCommonName": "Marigold",
+    "type": "Plant",
+    "description": "A flowering plant known for its bright, vibrant flowers commonly used in gardens and cultural rituals."
+},
+{
+    "becId": "P-1237-11",
+    "organismName": "Callistephus chinensis",
+    "organismCommonName": "China Aster",
+    "type": "Plant",
+    "description": "A flowering plant known for its colorful, daisy-like flowers, commonly grown as ornamental plants."
+},
+    {
+    "becId": "P-1240-11",
+    "organismName": "Eucalyptus spp.",
+    "organismCommonName": "Eucalyptus",
+    "type": "Plant",
+    "description": "A genus of fast-growing trees known for their aromatic leaves, commonly used in essential oils and timber."
+},
+{
+    "becId": "P-1243-11",
+    "organismName": "Kaempferia galanga",
+    "organismCommonName": "Kacholam",
+    "type": "Plant",
+    "description": "A flowering plant known for its aromatic rhizomes, used in traditional medicine and as a spice."
+},
+{
+    "becId": "P-1246-11",
+    "organismName": "Cymbopogon citratus",
+    "organismCommonName": "Lemongrass",
+    "type": "Plant",
+    "description": "A tropical grass known for its citrus flavor, commonly used in cooking and herbal tea."
+},
+{
+    "becId": "P-1249-11",
+    "organismName": "Cymbopogon martinii",
+    "organismCommonName": "Palmarosa",
+    "type": "Plant",
+    "description": "A grass species known for its fragrant oil, used in perfumes and aromatherapy."
+},
+{
+    "becId": "P-1252-11",
+    "organismName": "Chrysopogon zizanioides",
+    "organismCommonName": "Vetiver",
+    "type": "Plant",
+    "description": "A perennial grass known for its fragrant roots, used in perfumes, oils, and traditional medicine."
+},
+{
+    "becId": "P-1255-11",
+    "organismName": "Crotalaria verrucosa",
+    "organismCommonName": "Chethikoduveli",
+    "type": "Plant",
+    "description": "A plant species found in tropical regions, traditionally used in folk medicine."
+},
+{
+    "becId": "P-1258-11",
+    "organismName": "Clitoria ternatea",
+    "organismCommonName": "Neela Amari",
+    "type": "Plant",
+    "description": "A climbing plant known for its blue flowers, used in traditional medicine and as a natural dye."
+},
+{
+    "becId": "P-1261-11",
+    "organismName": "Curcuma mangga",
+    "organismCommonName": "Chengazhinirkizhangu",
+    "type": "Plant",
+    "description": "A type of turmeric species used in traditional medicine and known for its medicinal rhizomes."
+},
+{
+    "becId": "P-1264-11",
+    "organismName": "Curcuma angustifolia",
+    "organismCommonName": "Kasthurimanjal",
+    "type": "Plant",
+    "description": "A species of turmeric known for its rhizomes used in Ayurveda and traditional medicine."
+},
+{
+    "becId": "P-1267-11",
+    "organismName": "Curcuma caesia",
+    "organismCommonName": "Chittaratha",
+    "type": "Plant",
+    "description": "A species of turmeric, used for its medicinal properties in traditional healing practices."
+},
+{
+    "becId": "P-1270-11",
+    "organismName": "Bacopa monnieri",
+    "organismCommonName": "Nilappana",
+    "type": "Plant",
+    "description": "A medicinal herb used in traditional medicine for its cognitive enhancement and stress-relieving properties."
+},
+{
+    "becId": "P-1273-11",
+    "organismName": "Aloe vera",
+    "organismCommonName": "Jeevakom",
+    "type": "Plant",
+    "description": "A succulent plant known for its gel, used for skin care, medicinal, and cosmetic purposes."
+},
+{
+    "becId": "P-1276-11",
+    "organismName": "Adhatoda vasica",
+    "organismCommonName": "Adapathiyan",
+    "type": "Plant",
+    "description": "A medicinal plant known for its use in treating respiratory issues, commonly used in traditional medicine."
+},
+{
+    "becId": "P-1279-11",
+    "organismName": "Saraca asoca",
+    "organismCommonName": "Asoka",
+    "type": "Plant",
+    "description": "A tree known for its beautiful flowers and medicinal properties, used in Ayurvedic treatments."
+},
+{
+    "becId": "P-1282-11",
+    "organismName": "Madhuca longifolia",
+    "organismCommonName": "Kanjiram",
+    "type": "Plant",
+    "description": "A tree known for its flowers and edible seeds, traditionally used in local medicine."
 }
+
+
+
+
+
+
+
 
 
 
