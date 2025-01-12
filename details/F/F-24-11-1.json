@@ -7,13 +7,13 @@
     "habitat": "Aspergillus niger is commonly found in decaying plant material, soil, and food products.",
     "importance": "This fungus is widely used in biotechnology, food production, and pharmaceuticals, especially in the production of enzymes and organic acids.",
     "scientificClassification": {
-        "kingdom": "Fungi",
-        "phylum": "Ascomycota",
-        "class": "Eurotiomycetes",
-        "order": "Eurotiales",
-        "family": "Trichocomaceae",
-        "genus": "Aspergillus",
-        "species": "A. niger"
+        "Kingdom": "Fungi",
+        "Phylum": "Ascomycota",
+        "Class": "Eurotiomycetes",
+        "Order": "Eurotiales",
+        "Family": "Trichocomaceae",
+        "Genus": "Aspergillus",
+        "Species": "A. niger"
     },
     "otherNames": [
         {
@@ -52,12 +52,12 @@
         ],
         "subImages": [
             {
-                "url": "https://example.com/images/aspergillus-niger-fermentation.jpg",
-                "caption": "Industrial fermentation process using Aspergillus niger"
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aspergillus_niger_2.jpg/440px-Aspergillus_niger_2.jpg",
+                "caption": "A. niger growing on potato dextrose agar"
             },
             {
-                "url": "https://example.com/images/aspergillus-niger-growth.jpg",
-                "caption": "Aspergillus niger growing on bread"
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Aspergillus_niger_on_onion.jpg/340px-Aspergillus_niger_on_onion.jpg",
+                "caption": "Aspergillus niger growing on onion"
             }
         ]
     },
