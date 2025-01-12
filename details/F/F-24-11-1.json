@@ -46,12 +46,12 @@
     "images": {
         "mainImages": [
             {
-                "url": "https://en.wikipedia.org/wiki/File:Aspergillus_niger_01.jpg",
-                "caption": "Microscopic view of Aspergillus niger"
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aspergillus_niger_01.jpg/330px-Aspergillus_niger_01.jpg",
+                "caption": "Photomicrograph showing the conidial head (conidiophore) of Aspergillus niger"
             },
             {
-                "url": "https://example.com/images/aspergillus-niger-colony.jpg",
-                "caption": "Colony morphology of Aspergillus niger"
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aspergillus_niger_SEM.jpg/330px-Aspergillus_niger_SEM.jpg",
+                "caption": "Details of the head by scanning electron microscopy"
             }
         ],
         "subImages": [
