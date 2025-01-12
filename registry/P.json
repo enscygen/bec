@@ -1,20 +1,30 @@
 [
     {
-        "becId": "P-30001-10-3",
-        "organismName": "Arabidopsis thaliana",
+        "becId": "P-101-11-3",
+        "organismName": "Oryza sativa",
+        "organismCommonName": "Rice",
         "type": "Plant",
-        "description": "Arabidopsis thaliana is a small flowering plant related to cabbage and mustard, widely used in plant research."
+        "description": "A staple food crop grown for its edible grain, native to Asia."
     },
     {
-        "becId": "P-30002-10-3",
-        "organismName": "Rice (Oryza sativa)",
+        "becId": "P-101-12-9",
+        "organismName": "Oryza sativa subsp. indica",
+        "organismCommonName": "Indica rice",
         "type": "Plant",
-        "description": "Oryza sativa is the species of rice that is most commonly cultivated for human consumption around the world."
+        "description": "A subspecies of rice known for its long-grain, non-sticky texture, commonly grown in tropical regions."
     },
     {
-        "becId": "P-30003-10-3",
-        "organismName": "Tomato (Solanum lycopersicum)",
+        "becId": "P-101-13-5",
+        "organismName": "Oryza sativa subsp. japonica",
+        "organismCommonName": "Japonica rice",
         "type": "Plant",
-        "description": "Solanum lycopersicum, commonly known as tomato, is a widely cultivated crop and a major source of food."
+        "description": "A subspecies of rice typically grown in temperate regions, known for its short-grain and sticky texture."
+    },
+    {
+        "becId": "P-101-14-1",
+        "organismName": "Oryza sativa subsp. javanica",
+        "organismCommonName": "Javanica rice",
+        "type": "Plant",
+        "description": "A subspecies of rice found mainly in Southeast Asia, with characteristics of both indica and japonica rice."
     }
 ]
