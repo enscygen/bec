@@ -82,6 +82,77 @@
     "organismCommonName": "Pod corn",
     "type": "Plant",
     "description": "A rare variety of maize where each kernel is enclosed in a husk, often used for ornamental purposes."
+},
+    {
+    "becId": "P-142-11-9",
+    "organismName": "Sorghum bicolor",
+    "organismCommonName": "Sorghum",
+    "type": "Plant",
+    "description": "A drought-resistant cereal crop grown for its grain, used in food, fodder, and biofuel production."
+},
+{
+    "becId": "P-151-11-8",
+    "organismName": "Eleusine coracana",
+    "organismCommonName": "Ragi",
+    "type": "Plant",
+    "description": "A millet species known for its high nutritional value, often used in the preparation of porridge, bread, and other dishes."
+},
+{
+    "becId": "P-161-11-1",
+    "organismName": "Vigna mungo",
+    "organismCommonName": "Black gram",
+    "type": "Plant",
+    "description": "A leguminous crop known for its high protein content, commonly used in Indian cuisine."
+},
+{
+    "becId": "P-162-11-5",
+    "organismName": "Vigna radiata",
+    "organismCommonName": "Greengram",
+    "type": "Plant",
+    "description": "A leguminous crop used in the production of sprouts and as a staple food in many Asian countries."
+},
+{
+    "becId": "P-163-11-9",
+    "organismName": "Vigna unguiculata",
+    "organismCommonName": "Cowpea",
+    "type": "Plant",
+    "description": "A legume grown for its edible beans, rich in protein, often used in both human and animal feed."
+},
+{
+    "becId": "P-174-11-6",
+    "organismName": "Phaseolus vulgaris",
+    "organismCommonName": "French bean",
+    "type": "Plant",
+    "description": "A common legume known for its edible pods and beans, widely consumed in many cuisines around the world."
+},
+{
+    "becId": "P-182-11-1",
+    "organismName": "Pisum sativum",
+    "organismCommonName": "Green pea",
+    "type": "Plant",
+    "description": "A leguminous crop known for its edible seeds, often used in soups, stews, and salads."
+},
+{
+    "becId": "P-194-11-2",
+    "organismName": "Macrotyloma uniflorum",
+    "organismCommonName": "Horse gram",
+    "type": "Plant",
+    "description": "A leguminous crop grown primarily in dry regions, used for both human consumption and fodder."
+},
+{
+    "becId": "P-201-11-5",
+    "organismName": "Cajanus cajan",
+    "organismCommonName": "Red gram",
+    "type": "Plant",
+    "description": "A legume commonly grown for its seeds, also known as pigeon pea, used in various culinary dishes."
+},
+{
+    "becId": "P-221-11-1",
+    "organismName": "Glycine max",
+    "organismCommonName": "Soybean",
+    "type": "Plant",
+    "description": "A leguminous crop grown for its high-protein seeds, widely used in food products like tofu, soy milk, and oil."
 }
+
 
 ]
