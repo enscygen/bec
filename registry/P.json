@@ -215,7 +215,64 @@
     "organismCommonName": "Coleus",
     "type": "Plant",
     "description": "A tropical plant known for its medicinal properties, often used in traditional medicine for its active compound, forskolin."
+},
+    {
+    "becId": "P-721-11-1",
+    "organismName": "Anacardium occidentale",
+    "organismCommonName": "Cashew",
+    "type": "Plant",
+    "description": "A tropical tree that produces cashew nuts and cashew apples, widely grown for its edible seeds."
+},
+{
+    "becId": "P-732-11-8",
+    "organismName": "Gossypium hirsutum",
+    "organismCommonName": "Cotton",
+    "type": "Plant",
+    "description": "A species of cotton plant, widely cultivated for its fiber, used in textiles and other products."
+},
+{
+    "becId": "P-743-11-5",
+    "organismName": "Hevea brasiliensis",
+    "organismCommonName": "Rubber",
+    "type": "Plant",
+    "description": "A species of tree from which natural rubber is extracted, widely grown in tropical regions."
+},
+{
+    "becId": "P-754-11-2",
+    "organismName": "Saccharum officinarum",
+    "organismCommonName": "Sugarcane",
+    "type": "Plant",
+    "description": "A tropical plant cultivated for its high sugar content, used for producing sugar, ethanol, and molasses."
+},
+{
+    "becId": "P-765-11-9",
+    "organismName": "Cocos nucifera",
+    "organismCommonName": "Coconut",
+    "type": "Plant",
+    "description": "A tropical tree known for its edible fruit, the coconut, used in food, cosmetics, and oil production."
+},
+{
+    "becId": "P-776-11-6",
+    "organismName": "Arachis hypogaea",
+    "organismCommonName": "Groundnut",
+    "type": "Plant",
+    "description": "A legume plant cultivated for its edible seeds, commonly known as peanuts, widely used in cooking and oil production."
+},
+{
+    "becId": "P-787-11-3",
+    "organismName": "Elaeis guineensis",
+    "organismCommonName": "Oilpalm",
+    "type": "Plant",
+    "description": "A tropical plant species from which palm oil is extracted, widely cultivated for its oil-rich fruit."
+},
+{
+    "becId": "P-798-11-0",
+    "organismName": "Sesamum indicum",
+    "organismCommonName": "Sesame",
+    "type": "Plant",
+    "description": "A flowering plant grown for its seeds, which are used in cooking, oil production, and various food products."
 }
+
 
 
 
