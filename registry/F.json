@@ -7,42 +7,42 @@
     "description": "A common species of Aspergillus known for its black conidia and its role in food spoilage and industrial applications."
 },
 {
-    "becId": "F-25-11",
+    "becId": "F-25-11-4",
     "organismName": "Aspergillus flavus",
     "organismCommonName": "Aspergillus flavus",
     "type": "Fungus",
     "description": "A species of Aspergillus that produces aflatoxins, which are toxic and carcinogenic compounds commonly found in crops."
 },
 {
-    "becId": "F-35-11",
+    "becId": "F-35-11-6",
     "organismName": "Alternaria alternata",
     "organismCommonName": "Alternaria",
     "type": "Fungus",
     "description": "A species of fungus responsible for causing leaf spot disease in a wide range of plants."
 },
 {
-    "becId": "F-47-11",
+    "becId": "F-47-11-4",
     "organismName": "Botrytis cinerea",
     "organismCommonName": "Gray Mold",
     "type": "Fungus",
     "description": "A plant pathogenic fungus that causes gray mold on various crops, particularly during periods of high humidity."
 },
 {
-    "becId": "F-58-11",
+    "becId": "F-58-11-9",
     "organismName": "Cercospora beticola",
     "organismCommonName": "Cercospora leaf spot",
     "type": "Fungus",
     "description": "A fungal pathogen responsible for leaf spot disease in sugar beets and other plants."
 },
 {
-    "becId": "F-72-11",
+    "becId": "F-72-11-5",
     "organismName": "Colletotrichum gloeosporioides",
     "organismCommonName": "Colletotrichum",
     "type": "Fungus",
     "description": "A fungus that causes anthracnose diseases in various crops, particularly fruits and vegetables."
 },
 {
-    "becId": "F-102-11",
+    "becId": "F-102-11-7",
     "organismName": "Claviceps purpurea",
     "organismCommonName": "Ergot",
     "type": "Fungus",
@@ -50,77 +50,77 @@
 },
 
 {
-    "becId": "F-139-11",
+    "becId": "F-139-11-4",
     "organismName": "Cordana wernhamii",
     "organismCommonName": "Cordana",
     "type": "Fungus",
     "description": "A plant pathogenic fungus causing leaf spot disease in various crops."
 },
 {
-    "becId": "F-143-11",
+    "becId": "F-143-11-3",
     "organismName": "Diplocarpon earlianum",
     "organismCommonName": "Diplocarpon",
     "type": "Fungus",
     "description": "A fungus responsible for black spot disease in roses."
 },
 {
-    "becId": "F-149-11",
+    "becId": "F-149-11-7",
     "organismName": "Diplodia sapinea",
     "organismCommonName": "Diplodia",
     "type": "Fungus",
     "description": "A fungal pathogen that infects pine trees, causing wood rot and cankers."
 },
 {
-    "becId": "F-156-11",
+    "becId": "F-156-11-8",
     "organismName": "Erysiphe cichoracearum",
     "organismCommonName": "Powdery Mildew",
     "type": "Fungus",
     "description": "A common fungal pathogen that causes powdery mildew on a variety of plants."
 },
 {
-    "becId": "F-161-11",
+    "becId": "F-161-11-1",
     "organismName": "Ephelis cucurbitacearum",
     "organismCommonName": "Cucurbit mildew",
     "type": "Fungus",
     "description": "A mildew fungus affecting cucurbit crops, particularly squash and cucumber."
 },
 {
-    "becId": "F-168-11",
+    "becId": "F-168-11-9",
     "organismName": "Helminthosporium solani",
     "organismCommonName": "Brown Spot",
     "type": "Fungus",
     "description": "A fungus that infects potato plants, causing brown spots on leaves and tubers."
 },
 {
-    "becId": "F-201-11",
+    "becId": "F-201-11-5",
     "organismName": "Fusarium oxysporum",
     "organismCommonName": "Fusarium Wilt",
     "type": "Fungus",
     "description": "A soil-borne fungus causing wilt and root rot in a variety of crops, including tomatoes and bananas."
 },
 {
-    "becId": "F-301-11",
+    "becId": "F-301-11-7",
     "organismName": "Pyricularia oryzae",
     "organismCommonName": "Rice Blast",
     "type": "Fungus",
     "description": "A fungal pathogen that causes rice blast disease, which is a major threat to rice production."
 },
 {
-    "becId": "F-412-11",
+    "becId": "F-412-11-6",
     "organismName": "Sarocladium oryzae",
     "organismCommonName": "Rice Sheath Blight",
     "type": "Fungus",
     "description": "A fungus that causes sheath blight disease in rice, affecting its yield and quality."
 },
 {
-    "becId": "F-455-11",
+    "becId": "F-455-11-0",
     "organismName": "Sclerotium rolfsii",
     "organismCommonName": "Southern Blight",
     "type": "Fungus",
     "description": "A fungal pathogen that causes southern blight in various crops, leading to wilting and decay."
 },
 {
-    "becId": "F-501-11",
+    "becId": "F-501-11-1",
     "organismName": "Rhizoctonia solani",
     "organismCommonName": "Rhizoctonia",
     "type": "Fungus",
