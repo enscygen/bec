@@ -15,6 +15,22 @@
         "Genus": "Aspergillus",
         "Species": "A. niger"
     },
+    "detaildata": {
+        "Genome Data": {
+            "Genome Size": "36.4 Mb",
+            "Number of Chromosomes": "8",
+            "GC Content": "49.5%",
+            "Protein-Coding Genes": "14,165",
+            "Assembly Reference": "NCBI GCA_000002855.3"
+        },
+        "Chemicals Produced": {
+            "Citric Acid": "Used in food, pharmaceuticals, and industrial applications.",
+            "Gluconic Acid": "Used in cleaning agents and pharmaceutical formulations.",
+            "Amylase": "Enzyme used for starch breakdown in food processing.",
+            "Protease": "Enzyme used in detergents and leather processing.",
+            "Fumonisin B2": "A secondary metabolite with potential toxicity concerns."
+        }
+    },
     "otherNames": [
         {
             "name": "Aspergillus awamori",
