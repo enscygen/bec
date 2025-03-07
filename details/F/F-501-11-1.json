@@ -1,0 +1,100 @@
+{
+    "becId": "F-501-11-1",
+    "basicdata": {
+        "Scientific Name": "Rhizoctonia solani",
+        "Common Name": "Root Rot Fungus",
+        "Type": "Fungus",
+        "Description": "Rhizoctonia solani is a soil-borne fungal pathogen known for causing various plant diseases, including damping-off, root rot, and stem cankers. It affects a wide range of crops and is particularly destructive in agricultural systems."
+    },
+    "habitat": "Rhizoctonia solani is commonly found in soil, decaying plant material, and crop residues. It thrives in warm, moist environments and is known to persist in the soil for long periods as sclerotia.",
+    "importance": "This fungus is a major agricultural pathogen, responsible for significant crop losses worldwide. It affects cereals, vegetables, and legumes, reducing crop yield and quality. Disease management includes crop rotation, resistant cultivars, and biological control.",
+    "scientificClassification": {
+        "Kingdom": "Fungi",
+        "Phylum": "Basidiomycota",
+        "Class": "Agaricomycetes",
+        "Order": "Cantharellales",
+        "Family": "Ceratobasidiaceae",
+        "Genus": "Rhizoctonia",
+        "Species": "R. solani"
+    },
+    "detaildata": {
+        "Genome Data": {
+            "Genome Size": "51.8 Mb",
+            "Number of Chromosomes": "Unknown (haploid, multinucleate)",
+            "GC Content": "47.2%",
+            "Protein-Coding Genes": "11,897",
+            "Assembly Reference": "NCBI GCA_000279755.1"
+        },
+        "Pathogenicity": {
+            "Damping-Off": "Affects seedlings, causing decay before or after emergence.",
+            "Root Rot": "Destroys root systems, leading to plant wilting and death.",
+            "Sheath Blight": "Common in rice, affecting leaves and reducing grain yield.",
+            "Stem Cankers": "Causes lesions on stems, restricting nutrient flow."
+        },
+        "Host Range": {
+            "Cereals": "Rice, wheat, maize, barley",
+            "Vegetables": "Potato, carrot, lettuce, tomato",
+            "Legumes": "Soybean, bean, chickpea"
+        },
+        "Survival Strategies": {
+            "Sclerotia Formation": "Hardy structures that persist in soil for years.",
+            "Mycelial Growth": "Grows through soil and plant debris, infecting new plants."
+        }
+    },
+    "otherNames": [
+        {
+            "name": "Thanatephorus cucumeris",
+            "definition": "The teleomorph (sexual stage) of Rhizoctonia solani."
+        },
+        {
+            "name": "Soil-Borne Fungus",
+            "definition": "A general term referring to its widespread occurrence in soil."
+        }
+    ],
+    "otherRelatedSpeciesBECID": [
+        {
+            "becId": "F-502-11-2",
+            "relation": "Related species (Rhizoctonia oryzae)"
+        },
+        {
+            "becId": "F-503-12-3",
+            "relation": "Related species (Rhizoctonia zeae)"
+        }
+    ],
+    "previousOrRetractedBECIDs": [
+        "F-20031-15-4",
+        "F-20342-16-7"
+    ],
+    "images": {
+        "mainImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rhizoctonia_solani_microscopy.jpg",
+                "caption": "Microscopic view of Rhizoctonia solani hyphae"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Rhizoctonia_solani_potato_rot.jpg",
+                "caption": "Rhizoctonia solani infection on potato tubers"
+            }
+        ],
+        "subImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rhizoctonia_solani_infected_rice.jpg",
+                "caption": "Rice sheath blight caused by Rhizoctonia solani"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Rhizoctonia_solani_soil.jpg",
+                "caption": "Rhizoctonia solani colonies growing on soil medium"
+            }
+        ]
+    },
+    "linksToOtherDatabases": [
+        {
+            "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29319",
+            "caption": "NCBI Taxonomy Browser for Rhizoctonia solani"
+        },
+        {
+            "url": "https://fungi.myspecies.info/taxonomy/term/156",
+            "caption": "Fungi Online Database Entry for Rhizoctonia solani"
+        }
+    ]
+}
