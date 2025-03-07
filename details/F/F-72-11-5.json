@@ -1,0 +1,96 @@
+{
+    "becId": "F-72-11-5",
+    "basicdata": {
+        "Scientific Name": "Colletotrichum gloeosporioides",
+        "Common Name": "Anthracnose Fungus",
+        "Type": "Fungus",
+        "Description": "A pathogenic fungus responsible for anthracnose disease in a wide range of fruit crops, vegetables, and ornamental plants. It causes necrotic lesions and fruit rot, leading to significant agricultural losses."
+    },
+    "habitat": "Commonly found in tropical and subtropical regions, affecting plant tissues such as leaves, stems, and fruits. It thrives in humid conditions and spreads via spores in water droplets.",
+    "importance": "A major agricultural pathogen with economic importance due to its impact on fruit crops such as mango, avocado, papaya, and citrus. It is also used in plant pathology research to study fungal-plant interactions.",
+    "scientificClassification": {
+        "Kingdom": "Fungi",
+        "Phylum": "Ascomycota",
+        "Class": "Sordariomycetes",
+        "Order": "Glomerellales",
+        "Family": "Glomerellaceae",
+        "Genus": "Colletotrichum",
+        "Species": "C. gloeosporioides"
+    },
+    "detaildata": {
+        "Genome Data": {
+            "Genome Size": "54.6 Mb",
+            "Number of Chromosomes": "Unknown",
+            "GC Content": "51.3%",
+            "Protein-Coding Genes": "17,530",
+            "Assembly Reference": "NCBI GCA_002368485.1"
+        },
+        "Pathogenicity Factors": {
+            "Toxin Production": "Produces host-specific toxins affecting different plant species.",
+            "Effector Proteins": "Employs effectors to manipulate host immunity and promote infection.",
+            "Infection Strategy": "Utilizes an appressorium to penetrate host tissues."
+        },
+        "Host Range": {
+            "Mango": "Major cause of postharvest anthracnose in mangoes.",
+            "Avocado": "Leads to fruit rot and premature dropping.",
+            "Papaya": "Causes black spots on fruit surface.",
+            "Citrus": "Affects leaves and fruits, reducing yield."
+        }
+    },
+    "otherNames": [
+        {
+            "name": "Glomerella cingulata",
+            "definition": "The teleomorph (sexual stage) name of Colletotrichum gloeosporioides."
+        },
+        {
+            "name": "Colletotrichum musae",
+            "definition": "A name sometimes used for banana-infecting strains of the fungus."
+        }
+    ],
+    "otherRelatedSpeciesBECID": [
+        {
+            "becId": "F-75-12",
+            "relation": "Genus member"
+        },
+        {
+            "becId": "F-92-14-3",
+            "relation": "Genus member"
+        }
+    ],
+    "previousOrRetractedBECIDs": [
+        "F-7012-18-6",
+        "F-6931-17-2"
+    ],
+    "images": {
+        "mainImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Colletotrichum_gloeosporioides_on_mango.jpg",
+                "caption": "Anthracnose symptoms on mango caused by Colletotrichum gloeosporioides"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Colletotrichum_gloeosporioides_on_leaves.jpg",
+                "caption": "Leaf infection by Colletotrichum gloeosporioides"
+            }
+        ],
+        "subImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Colletotrichum_gloeosporioides_spores.jpg",
+                "caption": "Microscopic view of Colletotrichum gloeosporioides spores"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Colletotrichum_fungal_colony.jpg",
+                "caption": "Fungal colony of Colletotrichum gloeosporioides in culture"
+            }
+        ]
+    },
+    "linksToOtherDatabases": [
+        {
+            "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5507",
+            "caption": "NCBI Taxonomy Browser for Colletotrichum gloeosporioides"
+        },
+        {
+            "url": "https://www.fungidb.org/fungidb/app/record/organism/CGLO",
+            "caption": "FungiDB Entry for Colletotrichum gloeosporioides"
+        }
+    ]
+}
