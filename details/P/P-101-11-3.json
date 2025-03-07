@@ -61,12 +61,16 @@
     ],
     "otherRelatedSpeciesBECID": [
         {
-            "becId": "P-102-11-4",
-            "relation": "Related species (Oryza glaberrima)"
+            "becId": "P-101-12-9",
+            "relation": "Sub-species (Oryza sativa subsp. indica)"
         },
         {
-            "becId": "P-103-12-1",
-            "relation": "Wild ancestor (Oryza rufipogon)"
+            "becId": "P-101-13-5",
+            "relation": "Sub-species (Oryza sativa subsp. japonica)"
+        },
+        {
+            "becId": "P-101-14-1",
+            "relation": "Sub-species (Oryza sativa subsp. javanica)"
         }
     ],
     "previousOrRetractedBECIDs": [
