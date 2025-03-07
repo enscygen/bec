@@ -47,16 +47,7 @@
             "Bacterial Blight": "Caused by Xanthomonas oryzae, leading to leaf wilting.",
             "Blast Disease": "Caused by Magnaporthe oryzae, affecting leaves and stems.",
             "Brown Planthopper": "A major pest that transmits rice tungro virus."
-        },
-        "Morphology": {
-            "Growth Habit": "Annual grass with an erect or semi-erect growth form, typically reaching 50-150 cm in height.",
-            "Leaf Structure": {
-                "Leaf Type": "Monocot, linear-lanceolate leaves.",
-                "Leaf Length": "30-60 cm",
-                "Leaf Width": "1-2 cm",
-                "Leaf Venation": "Parallel venation, characteristic of monocots.",
-                "Leaf Arrangement": "Alternately arranged along the culm."
-            }
+        }
     },
     "otherNames": [
         {
