@@ -30,6 +30,31 @@
             "Japonica": "Grown in temperate regions, characterized by short grains and sticky texture.",
             "Javanica": "Less common, grown in tropical highlands, with large grains."
         },
+        {
+    "Anatomical Information": {
+        "Leaf Type": "Simple",
+        "Leaf Arrangement": "Alternate",
+        "Leaf Shape": "Linear-lanceolate",
+        "Leaf Venation": "Parallel",
+        "Leaf Margin": "Entire",
+        "Leaf Length": "30-100 cm",
+        "Leaf Width": "0.5-2 cm",
+        "Inflorescence Type": "Panicle",
+        "Inflorescence Structure": "Branched with spikelets",
+        "Floral Formula": "⚥ ⊕ P(2-3) A(6) G(1-3) (Superior ovary)",
+        "Flower Type": "Bisexual",
+        "Flower Symmetry": "Zygomorphic",
+        "Perianth": "Reduced to two lodicules",
+        "Number of Stamens": "6",
+        "Number of Carpels": "1-3, superior ovary",
+        "Pollination": "Self-pollination, sometimes wind-pollinated",
+        "Fruit Type": "Caryopsis (grain)",
+        "Fruit Color": "Varies (white, brown, red, black, purple)",
+        "Fruit Size": "5-12 mm in length",
+        "Seed Structure": "Endospermic",
+        "Seed Dormancy": "Short dormancy, fast germination under warm conditions"
+    },
+    }
         "Nutritional Value (per 100g, uncooked)": {
             "Carbohydrates": "80 g",
             "Protein": "7 g",
