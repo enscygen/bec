@@ -30,7 +30,6 @@
             "Japonica": "Grown in temperate regions, characterized by short grains and sticky texture.",
             "Javanica": "Less common, grown in tropical highlands, with large grains."
         },
-        {
     "Anatomical Information": {
         "Leaf Type": "Simple",
         "Leaf Arrangement": "Alternate",
@@ -54,7 +53,6 @@
         "Seed Structure": "Endospermic",
         "Seed Dormancy": "Short dormancy, fast germination under warm conditions"
     },
-    }
         "Nutritional Value (per 100g, uncooked)": {
             "Carbohydrates": "80 g",
             "Protein": "7 g",
