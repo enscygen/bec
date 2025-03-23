@@ -103,22 +103,12 @@
     "images": {
         "mainImages": [
             {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Oryza_sativa.jpg",
+                "url": "https://images.unsplash.com/photo-1621394988863-117a9fc6e77f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmljZSUyMGZpZWxkfGVufDB8fDB8fHww",
                 "caption": "Rice plant (Oryza sativa) growing in a paddy field"
             },
             {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rice_grains.jpg",
+                "url": "https://img-cdn.krishijagran.com/39347/red-rice-1.jpg",
                 "caption": "Rice grains of different varieties"
-            }
-        ],
-        "subImages": [
-            {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Rice_seedlings.jpg",
-                "caption": "Rice seedlings prepared for transplantation"
-            },
-            {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rice_field.jpg",
-                "caption": "A traditional rice field in Southeast Asia"
             }
         ]
     },
