@@ -112,6 +112,28 @@
             }
         ]
     },
+     "detailedImages": {
+        "Leaf": [
+            {
+                "url": "https://media.istockphoto.com/id/2111604430/photo/water-grains-on-rice-plants.jpg?s=612x612&w=0&k=20&c=RyQqR4xTKc6uTiXlUUxB86YdH76Sg2t1CelbOIduE8k=",
+                "caption": "Rice leaf showing parallel venation"
+            },
+            {
+                "url": "https://storage.googleapis.com/kaggle-datasets-images/522658/959791/799e25239b234daf109737f0acf1fc26/dataset-card.jpg?t=2020-02-21-01-44-16",
+                "caption": "Rice leaves"
+            }
+        ],
+        "Panicle/Inflorescence": [
+            {
+                "url": "https://www.frontiersin.org/files/special%20topics/42501/thumb_400.jpg",
+                "caption": "Rice panicles"
+            },
+            {
+                "url": "https://cdn.prod.website-files.com/621e95f9ac30687a56e4297e/65dcfdc8c0ddfd694075a51e_V2_1707332966968_5e5f224d-f415-4fac-b49b-187a6444a8e5_HIGH_RES.png",
+                "caption": "Rice flower anatomy"
+            }
+        ]
+    },
     "linksToOtherDatabases": [
         {
             "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4530",
