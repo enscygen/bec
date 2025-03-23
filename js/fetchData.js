@@ -1,37 +1,39 @@
 const BASE_URL = "https://enscygen.github.io/bec/registry/";
+const DETAILS_URL = "https://enscygen.github.io/bec/details/";
+const REDIRECTS_URL = "https://enscygen.github.io/bec/details/redirects.json";  
 const VERSION = "v1.1";
+
 console.log(`BEC registry module ${VERSION}`);
 
-// Exporting the version number for the module
 export { VERSION };
 
-
-async function fetchJSON(fileName) {
+// Function to fetch JSON from a given URL
+async function fetchJSON(url) {
     try {
-        const response = await fetch(`${BASE_URL}${fileName}`);
+        const response = await fetch(url);
         if (!response.ok) {
-            throw new Error(`Failed to fetch ${fileName}: ${response.statusText}`);
+            throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
         }
         return await response.json();
     } catch (error) {
         console.error("Error fetching JSON:", error);
-        return [];
+        return null;
     }
 }
 
-
+// Fetch registry data
 async function fetchRegistryData() {
     const fileNames = ["F.json", "B.json", "P.json", "V.json"];
     const registryData = {};
 
     for (const fileName of fileNames) {
-        registryData[fileName] = await fetchJSON(fileName);
+        registryData[fileName] = await fetchJSON(`${BASE_URL}${fileName}`);
     }
 
     return registryData;
 }
 
-// Search the registry for matches by BEC ID or organism name.
+// Search function for registry
 async function searchRegistry(query) {
     const registryData = await fetchRegistryData();
     const results = [];
@@ -41,9 +43,9 @@ async function searchRegistry(query) {
         results.push(
             ...data.filter(
                 (item) =>
-                    item.becId.toLowerCase().includes(lowerCaseQuery) || // Partial match for BEC ID
-                    item.organismName.toLowerCase().includes(lowerCaseQuery) || // Partial match for organism name
-                    (item.organismCommonName && item.organismCommonName.toLowerCase().includes(lowerCaseQuery)) // Partial match for common name, if it exists
+                    item.becId.toLowerCase().includes(lowerCaseQuery) ||
+                    item.organismName.toLowerCase().includes(lowerCaseQuery) ||
+                    (item.organismCommonName && item.organismCommonName.toLowerCase().includes(lowerCaseQuery))
             )
         );
     }
@@ -53,23 +55,39 @@ async function searchRegistry(query) {
 
 export { fetchJSON, fetchRegistryData, searchRegistry };
 
-
+// Fetch organism details and handle redirection internally
 export async function fetchOrganismDetails(becId) {
-    // Extract the type from the BEC ID (e.g., 'F' for fungi, 'B' for bacteria, etc.)
     const type = becId.split('-')[0]; 
-
-    // Build the URL to fetch the JSON file from the correct folder
-    const url = `https://enscygen.github.io/bec/details/${type}/${becId}.json`;
+    const url = `${DETAILS_URL}${type}/${becId}.json`;
 
     try {
         const response = await fetch(url);
         if (!response.ok) {
-            throw new Error('Organism not found');
+            throw new Error(`Organism not found: ${becId}`);
         }
-        const data = await response.json();
-        return data;  // Return the organism data
+        return await response.json();  // Return organism data if found
     } catch (error) {
-        console.error('Error fetching BEC details:', error);
+        console.warn(`BEC ID ${becId} not found. Checking for redirection...`);
+        
+        // Try fetching redirection data before returning null
+        const redirectedBEC = await fetchRedirectedBEC(becId);
+        if (redirectedBEC) {
+            console.log(`Redirecting ${becId} to ${redirectedBEC}`);
+            return await fetchOrganismDetails(redirectedBEC);  // Fetch new redirected BEC details
+        }
+
+        console.error(`No redirection found for ${becId}`);
+        return null;  // No data found
+    }
+}
+
+// Function to check if a BEC ID has a redirection
+async function fetchRedirectedBEC(becId) {
+    try {
+        const redirects = await fetchJSON(REDIRECTS_URL);
+        return redirects && redirects[becId] ? redirects[becId] : null;
+    } catch (error) {
+        console.error("Error fetching redirect data:", error);
         return null;
     }
 }
