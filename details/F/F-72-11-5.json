@@ -47,6 +47,28 @@
             "definition": "A name sometimes used for banana-infecting strains of the fungus."
         }
     ],
+    "detailedImages": {
+        "Spores": [
+            {
+                "url": "https://apps.lucidcentral.org/pppw_v10/images/entities/mango_anthracnose_009/fruitrots.jpg",
+                "caption": "Anthracnose symptoms on mango caused by Colletotrichum gloeosporioides"
+            },
+            {
+                "url": "https://agritech.tnau.ac.in/crop_protection/images_turmeric/turmeric-leafspot.png",
+                "caption": "Leaf infection by Colletotrichum gloeosporioides"
+            }
+        ],
+        "Mycelia of Fungus": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Colletotrichum_gloeosporioides_spores.jpg",
+                "caption": "Microscopic view of Colletotrichum gloeosporioides spores"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Colletotrichum_fungal_colony.jpg",
+                "caption": "Fungal colony of Colletotrichum gloeosporioides in culture"
+            }
+        ]
+    },
     "otherRelatedSpeciesBECID": [
         {
             "becId": "F-75-12",
