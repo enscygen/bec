@@ -1,7 +1,7 @@
 const BASE_URL = "https://enscygen.github.io/bec/registry/";
 const DETAILS_URL = "https://enscygen.github.io/bec/details/";
 const REDIRECTS_URL = "https://enscygen.github.io/bec/registry/redirects.json";  
-const VERSION = "v1.1";
+const VERSION = "v1.5";
 
 console.log(`BEC registry module ${VERSION}`);
 
