@@ -55,7 +55,6 @@ async function searchRegistry(query) {
 
 export { fetchJSON, fetchRegistryData, searchRegistry };
 
-// Fetch organism details and handle redirection internally
 export async function fetchOrganismDetails(becId) {
     const type = becId.split('-')[0]; 
     const url = `${DETAILS_URL}${type}/${becId}.json`;
@@ -65,21 +64,27 @@ export async function fetchOrganismDetails(becId) {
         if (!response.ok) {
             throw new Error(`Organism not found: ${becId}`);
         }
-        return await response.json();  // Return organism data if found
+        const organismDetails = await response.json();
+        return { organismDetails, redirectedBECId: null }; // No redirection happened
     } catch (error) {
         console.warn(`BEC ID ${becId} not found. Checking for redirection...`);
-        
-        // Try fetching redirection data before returning null
-        const redirectedBEC = await fetchRedirectedBEC(becId);
-        if (redirectedBEC) {
-            console.log(`Redirecting ${becId} to ${redirectedBEC}`);
-            return await fetchOrganismDetails(redirectedBEC);  // Fetch new redirected BEC details
+
+        // Check for redirection
+        const redirectedBECId = await fetchRedirectedBEC(becId);
+        if (redirectedBECId) {
+            console.log(`Redirecting ${becId} to ${redirectedBECId}`);
+            const redirectedData = await fetchOrganismDetails(redirectedBECId);
+            return { 
+                organismDetails: redirectedData.organismDetails, 
+                redirectedBECId 
+            };
         }
 
         console.error(`No redirection found for ${becId}`);
-        return null;  // No data found
+        return { organismDetails: null, redirectedBECId: null }; // No data found
     }
 }
+
 
 // Function to check if a BEC ID has a redirection
 async function fetchRedirectedBEC(becId) {
