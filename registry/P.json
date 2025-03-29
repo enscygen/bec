@@ -880,7 +880,15 @@
     "organismCommonName": "Kanjiram",
     "type": "Plant",
     "description": "A tree known for its flowers and edible seeds, traditionally used in local medicine."
+},
+{
+    "becId": "P-1291-11-8",
+    "organismName": "Pongamia pinnata",
+    "organismCommonName": "Indian Beech",
+    "type": "Plant",
+    "description": "A fast-growing, nitrogen-fixing tree valued for its oil-rich seeds, used in biofuel production and traditional medicine."
 }
+
 
 
 
