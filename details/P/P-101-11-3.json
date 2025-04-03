@@ -18,6 +18,24 @@
         "Species": "O. sativa"
     },
     "detaildata": {
+        "Vernacular Names": {
+    "Malayalam": "Nellu (നെല്ല്)",
+    "Tamil": "Arisi (அரிசி)",
+    "Telugu": "Biyyam (బియ్యం)",
+    "Kannada": "Akki (ಅಕ್ಕಿ)",
+    "Hindi": "Chawal (चावल)",
+    "Bengali": "Bhat (ভাত) / Chal (চাল)",
+    "Gujarati": "Chokha (ચોખા)",
+    "Marathi": "Tandul (तांदूळ)",
+    "Punjabi": "Chawal (ਚਾਵਲ)",
+    "Odia": "Chaula (ଚାଉଳ)",
+    "Assamese": "Shaal (চাল)",
+    "Urdu": "Chawal (چاول)",
+    "Sanskrit": "Tandula (तण्डुल)",
+    "Konkani": "Tandul (तांदुळ)",
+    "Sindhi": "Chawal (چاول)",
+    "Manipuri (Meitei)": "Yen (ଏন)"
+        },
         "Genome Data": {
             "Genome Size": "430 Mb",
             "Number of Chromosomes": "2n = 24",
