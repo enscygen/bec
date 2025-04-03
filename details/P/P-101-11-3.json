@@ -91,41 +91,150 @@
         }
     },
     "dataTable": {
-        "Incidence of the organism": [
+        "Global Rice Production": [
             [
                 "Sl No",
-                "Place",
-                "Percent Incidence",
-                "Severity"
-            ],
-            [
-                "1",
-                "Trivandrum",
-                "65",
-                "34"
-            ],
-            [
-                "2",
-                "Kollam",
-                "61",
-                "44"
-            ]
-        ],
-        "Origin": [
-            [
-                "Sl No",
-                "Origin From",
+                "Country",
+                "Production (Million Tonnes)",
                 "Year"
             ],
             [
                 "1",
-                "Kollam",
-                "1934"
+                "China",
+                "211",
+                "2023"
             ],
             [
                 "2",
-                "Trivandrum",
-                "1944"
+                "India",
+                "182",
+                "2023"
+            ],
+            [
+                "3",
+                "Indonesia",
+                "54",
+                "2023"
+            ],
+            [
+                "4",
+                "Bangladesh",
+                "38",
+                "2023"
+            ],
+            [
+                "5",
+                "Vietnam",
+                "27",
+                "2023"
+            ]
+        ],
+        "Rice Nutritional Composition (Per 100g, Uncooked)": [
+            [
+                "Nutrient",
+                "Amount",
+                "Unit"
+            ],
+            [
+                "Carbohydrates",
+                "80",
+                "g"
+            ],
+            [
+                "Protein",
+                "7",
+                "g"
+            ],
+            [
+                "Fat",
+                "0.5",
+                "g"
+            ],
+            [
+                "Fiber",
+                "1.3",
+                "g"
+            ],
+            [
+                "Energy",
+                "365",
+                "kcal"
+            ]
+        ],
+        "Major Rice Growing States in India": [
+            [
+                "Sl No",
+                "State",
+                "Production (Million Tonnes)",
+                "Cultivation Area (Million Hectares)"
+            ],
+            [
+                "1",
+                "West Bengal",
+                "15.0",
+                "5.5"
+            ],
+            [
+                "2",
+                "Uttar Pradesh",
+                "14.5",
+                "5.9"
+            ],
+            [
+                "3",
+                "Punjab",
+                "12.0",
+                "3.1"
+            ],
+            [
+                "4",
+                "Andhra Pradesh",
+                "9.5",
+                "3.3"
+            ],
+            [
+                "5",
+                "Odisha",
+                "8.5",
+                "4.1"
+            ]
+        ],
+        "Common Rice Diseases and Pests": [
+            [
+                "Sl No",
+                "Disease/Pest",
+                "Cause",
+                "Effect on Crop"
+            ],
+            [
+                "1",
+                "Bacterial Blight",
+                "Xanthomonas oryzae",
+                "Wilting and yellowing of leaves"
+            ],
+            [
+                "2",
+                "Blast Disease",
+                "Magnaporthe oryzae",
+                "Leaf and stem lesions, reduced yield"
+            ],
+            [
+                "3",
+                "Brown Planthopper",
+                "Nilaparvata lugens",
+                "Sucks plant sap, transmits tungro virus"
+            ],
+            [
+                "4",
+                "Sheath Blight",
+                "Rhizoctonia solani",
+                "Affects stem sheaths, reducing plant vigor"
+            ],
+            [
+                "5",
+                "Rice Tungro Disease",
+                "Rice Tungro Virus",
+                "Stunting and yellowing of leaves"
             ]
         ]
     },
