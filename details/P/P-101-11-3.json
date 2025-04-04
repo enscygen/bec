@@ -1,6 +1,7 @@
 {
     "becId": "P-101-11-3",
     "becName": "Oryza sativa (Rice)",
+    "becTags": ["Plant", "Field Crop"],
     "basicdata": {
         "Scientific Name": "Oryza sativa",
         "Common Name": "Rice",
