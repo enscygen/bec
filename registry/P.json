@@ -3,6 +3,8 @@
         "becId": "P-101-11-3",
         "organismName": "Oryza sativa",
         "organismCommonName": "Rice",
+        "becicon": "rice.png",
+        "fam": "Poaceae",
         "type": "Plant",
         "description": "A staple food crop grown for its edible grain, native to Asia."
     },
