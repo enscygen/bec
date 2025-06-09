@@ -12,6 +12,8 @@
         "becId": "P-101-12-9",
         "organismName": "Oryza sativa subsp. indica",
         "organismCommonName": "Indica rice",
+         "becicon": "rice.png",
+        "fam": "Poaceae",
         "type": "Plant",
         "description": "A subspecies of rice known for its long-grain, non-sticky texture, commonly grown in tropical regions."
     },
@@ -19,6 +21,8 @@
         "becId": "P-101-13-5",
         "organismName": "Oryza sativa subsp. japonica",
         "organismCommonName": "Japonica rice",
+         "becicon": "rice.png",
+        "fam": "Poaceae",
         "type": "Plant",
         "description": "A subspecies of rice typically grown in temperate regions, known for its short-grain and sticky texture."
     },
@@ -26,6 +30,8 @@
         "becId": "P-101-14-1",
         "organismName": "Oryza sativa subsp. javanica",
         "organismCommonName": "Javanica rice",
+         "becicon": "rice.png",
+        "fam": "Poaceae",
         "type": "Plant",
         "description": "A subspecies of rice found mainly in Southeast Asia, with characteristics of both indica and japonica rice."
     },
@@ -33,6 +39,8 @@
     "becId": "P-121-11-9",
     "organismName": "Zea mays",
     "organismCommonName": "Maize",
+        "becicon": "corn.png",
+        "fam": "Poaceae",
     "type": "Plant",
     "description": "A cereal plant grown for its edible grains, commonly known as corn, native to Central America."
 },
