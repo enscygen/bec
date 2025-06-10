@@ -581,6 +581,8 @@
     "becId": "P-1123-11",
     "organismName": "Allium cepa",
     "organismCommonName": "Onion",
+        "becicon": "onion.png",
+        "fam": "Liliaceae",
     "type": "Plant",
     "description": "A vegetable with a strong aroma used widely in cooking to enhance flavor."
 },
@@ -588,6 +590,8 @@
     "becId": "P-1126-11",
     "organismName": "Allium sativum",
     "organismCommonName": "Garlic",
+    "becicon": "garlic.png",
+        "fam": "Liliaceae",
     "type": "Plant",
     "description": "A species of bulbous plants used for its strong aroma and flavor in cooking and for medicinal purposes."
 },
