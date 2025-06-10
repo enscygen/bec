@@ -502,28 +502,34 @@
     "description": "A type of gourd with a thick white flesh used in soups, stir-fries, and desserts."
 },
     {
-    "becId": "P-1093-11",
+    "becId": "P-1093-11-2",
     "organismName": "Solanum melongena",
     "organismCommonName": "Brinjal",
+        "becicon": "eggplant.png",
+        "fam": "Solanaceae",
     "type": "Plant",
     "description": "A popular vegetable known for its purple, oval-shaped fruit used in various culinary dishes."
 },
 {
-    "becId": "P-1096-11",
+    "becId": "P-1096-11-7",
     "organismName": "Capsicum annuum",
     "organismCommonName": "Chilli",
+    "becicon": "chilli.png",
+        "fam": "Solanaceae",
     "type": "Plant",
     "description": "A fruit-bearing plant used for its spicy, pungent fruit in cooking, commonly used in hot sauces and seasonings."
 },
 {
-    "becId": "P-1099-11",
+    "becId": "P-1099-11-2",
     "organismName": "Solanum lycopersicum",
     "organismCommonName": "Tomato",
+    "becicon": "tomato.png",
+        "fam": "Solanaceae",
     "type": "Plant",
     "description": "A flowering plant known for its red, juicy fruit, widely used in sauces, salads, and many dishes."
 },
 {
-    "becId": "P-1102-11",
+    "becId": "P-1102-11-4",
     "organismName": "Vigna unguiculata",
     "organismCommonName": "Vegetable Cowpea",
     "type": "Plant",
