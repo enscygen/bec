@@ -572,21 +572,21 @@
     "description": "A species of bulbous plants used for its strong aroma and flavor in cooking and for medicinal purposes."
 },
 {
-    "becId": "P-1129-11",
-    "organismName": "Dolichos lablab",
+    "becId": "P-1129-11-7",
+    "organismName": "Lablab purpureus",
     "organismCommonName": "Dolichos Bean",
     "type": "Plant",
     "description": "A leguminous plant grown for its edible beans and pods, used in many cuisines."
 },
 {
-    "becId": "P-1132-11",
-    "organismName": "Vigna unguiculata",
+    "becId": "P-1132-11-6",
+    "organismName": "Psophocarpus tetragonolobus",
     "organismCommonName": "Winged Bean",
     "type": "Plant",
     "description": "A leguminous plant grown for its edible leaves, flowers, seeds, and roots."
 },
 {
-    "becId": "P-1135-11",
+    "becId": "P-1135-11-1",
     "organismName": "Cyamopsis tetragonoloba",
     "organismCommonName": "Cluster Bean",
     "type": "Plant",
