@@ -127,6 +127,8 @@
     "becId": "P-161-11-1",
     "organismName": "Vigna mungo",
     "organismCommonName": "Black gram",
+    "becicon": "blackgram.png",
+        "fam": "Fabaceae",
     "type": "Plant",
     "description": "A leguminous crop known for its high protein content, commonly used in Indian cuisine."
 },
@@ -134,6 +136,8 @@
     "becId": "P-162-11-5",
     "organismName": "Vigna radiata",
     "organismCommonName": "Greengram",
+    "becicon": "greengram.png",
+        "fam": "Fabaceae",
     "type": "Plant",
     "description": "A leguminous crop used in the production of sprouts and as a staple food in many Asian countries."
 },
@@ -162,6 +166,8 @@
     "becId": "P-194-11-2",
     "organismName": "Macrotyloma uniflorum",
     "organismCommonName": "Horse gram",
+    "becicon": "horsegram.png",
+        "fam": "Fabaceae",
     "type": "Plant",
     "description": "A leguminous crop grown primarily in dry regions, used for both human consumption and fodder."
 },
@@ -169,6 +175,8 @@
     "becId": "P-201-11-5",
     "organismName": "Cajanus cajan",
     "organismCommonName": "Red gram",
+    "becicon": "redgram.png",
+        "fam": "Fabaceae",
     "type": "Plant",
     "description": "A legume commonly grown for its seeds, also known as pigeon pea, used in various culinary dishes."
 },
@@ -176,6 +184,8 @@
     "becId": "P-221-11-1",
     "organismName": "Glycine max",
     "organismCommonName": "Soybean",
+    "becicon": "soybean.png",
+        "fam": "Fabaceae",
     "type": "Plant",
     "description": "A leguminous crop grown for its high-protein seeds, widely used in food products like tofu, soy milk, and oil."
 },
@@ -183,6 +193,8 @@
     "becId": "P-432-11-2",
     "organismName": "Amorphophallus paeoniifolius",
     "organismCommonName": "Elephant foot yam",
+        "becicon": "yam.png",
+        "fam": "Araceae",
     "type": "Plant",
     "description": "A species of yam with a large, bulbous root used in traditional cuisine, known for its medicinal properties."
 },
@@ -190,6 +202,8 @@
     "becId": "P-453-11-2",
     "organismName": "Xanthosoma sagittifolium",
     "organismCommonName": "Xanthosoma",
+    "becicon": "tannia.png",
+        "fam": "Araceae",
     "type": "Plant",
     "description": "A tropical plant with edible tubers, also known as malanga, commonly used in Caribbean and African cuisines."
 },
