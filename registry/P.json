@@ -117,12 +117,12 @@
 {
     "becId": "P-151-11-8",
     "organismName": "Eleusine coracana",
-    "organismCommonName": "Ragi/Finger Millet",
+    "organismCommonName": "Finger Millet",
     "becicon": "millet2.png",
         "fam": "Poaceae",
     "type": "Plant",
     "description": "A millet species known for its high nutritional value, often used in the preparation of porridge, bread, and other dishes.",
-    "othernames": ["Nachni", "Mandua", "Finger millet", "African millet"]
+    "othernames": ["Ragi"]
 },
 {
     "becId": "P-161-11-1",
