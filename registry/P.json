@@ -16,6 +16,7 @@
          "becicon": "rice.png",
         "fam": "Poaceae",
         "type": "Plant",
+        "subtype": "Cereals",
         "description": "A subspecies of rice known for its long-grain, non-sticky texture, commonly grown in tropical regions."
     },
     {
@@ -24,6 +25,7 @@
         "organismCommonName": "Japonica rice",
          "becicon": "rice.png",
         "fam": "Poaceae",
+        "subtype": "Cereals",
         "type": "Plant",
         "description": "A subspecies of rice typically grown in temperate regions, known for its short-grain and sticky texture."
     },
@@ -34,6 +36,7 @@
          "becicon": "rice.png",
         "fam": "Poaceae",
         "type": "Plant",
+        "subtype": "Cereals",
         "description": "A subspecies of rice found mainly in Southeast Asia, with characteristics of both indica and japonica rice."
     },
     {
@@ -43,6 +46,7 @@
         "becicon": "corn.png",
         "fam": "Poaceae",
     "type": "Plant",
+        "subtype": "Cereals",
     "description": "A cereal plant grown for its edible grains, commonly known as corn, native to Central America."
 },
 {
@@ -52,6 +56,7 @@
     "becicon": "corn.png",
         "fam": "Poaceae",
     "type": "Plant",
+    "subtype": "Cereals",
     "description": "A variety of maize known for its deep indentation at the crown of the kernel, primarily used for animal feed and industrial products."
 },
 {
@@ -61,6 +66,7 @@
     "becicon": "corn.png",
         "fam": "Poaceae",
     "type": "Plant",
+    "subtype": "Cereals",
     "description": "A variety of maize with a higher sugar content, commonly consumed as a vegetable in its immature form."
 },
 {
@@ -70,6 +76,7 @@
     "becicon": "corn.png",
         "fam": "Poaceae",
     "type": "Plant",
+    "subtype": "Cereals",
     "description": "A variety of maize known for its hard, glassy kernels, commonly grown for flour production and certain traditional dishes."
 },
 {
@@ -79,6 +86,7 @@
     "becicon": "corn.png",
         "fam": "Poaceae",
     "type": "Plant",
+    "subtype": "Cereals",
     "description": "A variety of maize that produces waxy starch, used in the production of adhesives, coatings, and other industrial products."
 },
 {
@@ -88,6 +96,7 @@
     "becicon": "corn.png",
         "fam": "Poaceae",
     "type": "Plant",
+    "subtype": "Cereals",
     "description": "A variety of maize known for its ability to pop when heated, grown specifically for popcorn production."
 },
 {
@@ -97,6 +106,7 @@
     "becicon": "corn.png",
         "fam": "Poaceae",
     "type": "Plant",
+    "subtype": "Cereals",
     "description": "A wild ancestor of maize, native to Mexico and Central America, known for its small and hard kernels."
 },
 {
@@ -106,6 +116,7 @@
     "becicon": "corn.png",
         "fam": "Poaceae",
     "type": "Plant",
+    "subtype": "Cereals",
     "description": "A rare variety of maize where each kernel is enclosed in a husk, often used for ornamental purposes."
 },
     {
