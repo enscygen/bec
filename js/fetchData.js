@@ -45,7 +45,10 @@ async function searchRegistry(query) {
                 (item) =>
                     item.becId.toLowerCase().includes(lowerCaseQuery) ||
                     item.organismName.toLowerCase().includes(lowerCaseQuery) ||
-                    (item.organismCommonName && item.organismCommonName.toLowerCase().includes(lowerCaseQuery))
+                    (item.organismCommonName && item.organismCommonName.toLowerCase().includes(lowerCaseQuery)) ||
+                    (item.type && item.type.toLowerCase().includes(lowerCaseQuery)) ||
+                    (item.fam && item.fam.toLowerCase().includes(lowerCaseQuery)) ||
+                    (item.othernames && Array.isArray(item.othernames) && item.othernames.some(name => name.toLowerCase().includes(lowerCaseQuery)))
             )
         );
     }
