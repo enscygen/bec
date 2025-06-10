@@ -121,7 +121,8 @@
     "becicon": "millet2.png",
         "fam": "Poaceae",
     "type": "Plant",
-    "description": "A millet species known for its high nutritional value, often used in the preparation of porridge, bread, and other dishes."
+    "description": "A millet species known for its high nutritional value, often used in the preparation of porridge, bread, and other dishes.",
+    "othernames": ["Nachni", "Mandua", "Finger millet", "African millet"]
 },
 {
     "becId": "P-161-11-1",
