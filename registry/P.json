@@ -6,7 +6,7 @@
         "becicon": "rice.png",
         "fam": "Poaceae",
         "type": "Plant",
-        "type": "Cereals",
+        "subtype": "Cereals",
         "description": "A staple food crop grown for its edible grain, native to Asia."
     },
     {
