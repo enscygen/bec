@@ -1277,7 +1277,7 @@
   {
     "becId": "P-1255-11",
     "organismName": "Crotalaria verrucosa",
-    "organismCommonName": "Chethikoduveli",
+    "organismCommonName": "Blue Rattlepod",
     "type": "Plant",
     "description": "A plant species found in tropical regions, traditionally used in folk medicine."
   },
@@ -1317,7 +1317,7 @@
   {
     "becId": "P-1270-11",
     "organismName": "Bacopa monnieri",
-    "organismCommonName": "Nilappana",
+    "organismCommonName": "Brahmi",
     "type": "Plant",
     "description": "A medicinal herb used in traditional medicine for its cognitive enhancement and stress-relieving properties.",
     "becicon": "brahmi.png",
