@@ -121,6 +121,16 @@
   {
     "becId": "P-121-18-1",
     "organismName": "Zea mays var. rugosa",
+    "organismCommonName": "Sweet corn",
+    "becicon": "corn.png",
+    "fam": "Poaceae",
+    "type": "Plant",
+    "subtype": "Cereals",
+    "description": "A rare variety of maize where each kernel is enclosed in a husk, often used for ornamental purposes."
+  },
+  {
+    "becId": "P-121-19-1",
+    "organismName": "Zea mays var. tunicata",
     "organismCommonName": "Pod corn",
     "becicon": "corn.png",
     "fam": "Poaceae",
@@ -129,7 +139,7 @@
     "description": "A rare variety of maize where each kernel is enclosed in a husk, often used for ornamental purposes."
   },
   {
-    "becId": "P-142-11-9",
+    "becId": "P-121-11-9",
     "organismName": "Sorghum bicolor",
     "organismCommonName": "Sorghum",
     "type": "Plant",
