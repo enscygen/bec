@@ -3,6 +3,11 @@
         "becId": "P-101-11-3",
         "organismName": "Oryza sativa",
         "organismCommonName": "Rice",
+        "othernames": [
+        "Asian Rice",
+        "Paddy",
+        "Rough Rice"
+    ],
         "becicon": "rice.png",
         "fam": "Poaceae",
         "type": "Plant",
