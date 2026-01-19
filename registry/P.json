@@ -1,973 +1,1349 @@
 [
-    {
-        "becId": "P-101-11-3",
-        "organismName": "Oryza sativa",
-        "organismCommonName": "Rice",
-        "othernames": [
-        "Asian Rice",
-        "Paddy",
-        "Rough Rice"
+  {
+    "becId": "P-101-11-3",
+    "organismName": "Oryza sativa",
+    "organismCommonName": "Rice",
+    "othernames": [
+      "Asian Rice",
+      "Paddy",
+      "Rough Rice",
+      "Nellu"
     ],
-        "becicon": "rice.png",
-        "fam": "Poaceae",
-        "type": "Plant",
-        "subtype": "Cereals",
-        "description": "A staple food crop grown for its edible grain, native to Asia."
-    },
-    {
-        "becId": "P-101-12-9",
-        "organismName": "Oryza sativa subsp. indica",
-        "organismCommonName": "Indica rice",
-         "becicon": "rice.png",
-        "fam": "Poaceae",
-        "type": "Plant",
-        "subtype": "Cereals",
-        "description": "A subspecies of rice known for its long-grain, non-sticky texture, commonly grown in tropical regions."
-    },
-    {
-        "becId": "P-101-13-5",
-        "organismName": "Oryza sativa subsp. japonica",
-        "organismCommonName": "Japonica rice",
-         "becicon": "rice.png",
-        "fam": "Poaceae",
-        "subtype": "Cereals",
-        "type": "Plant",
-        "description": "A subspecies of rice typically grown in temperate regions, known for its short-grain and sticky texture."
-    },
-    {
-        "becId": "P-101-14-1",
-        "organismName": "Oryza sativa subsp. javanica",
-        "organismCommonName": "Javanica rice",
-         "becicon": "rice.png",
-        "fam": "Poaceae",
-        "type": "Plant",
-        "subtype": "Cereals",
-        "description": "A subspecies of rice found mainly in Southeast Asia, with characteristics of both indica and japonica rice."
-    },
-    {
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/rice.png",
+    "fam": "Poaceae",
+    "type": "Plant",
+    "subtype": "Cereals",
+    "description": "A staple food crop grown for its edible grain, native to Asia."
+  },
+  {
+    "becId": "P-101-12-9",
+    "organismName": "Oryza sativa subsp. indica",
+    "organismCommonName": "Indica rice",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/rice.png",
+    "fam": "Poaceae",
+    "type": "Plant",
+    "subtype": "Cereals",
+    "description": "A subspecies of rice known for its long-grain, non-sticky texture, commonly grown in tropical regions."
+  },
+  {
+    "becId": "P-101-13-5",
+    "organismName": "Oryza sativa subsp. japonica",
+    "organismCommonName": "Japonica rice",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/rice.png",
+    "fam": "Poaceae",
+    "subtype": "Cereals",
+    "type": "Plant",
+    "description": "A subspecies of rice typically grown in temperate regions, known for its short-grain and sticky texture."
+  },
+  {
+    "becId": "P-101-14-1",
+    "organismName": "Oryza sativa subsp. javanica",
+    "organismCommonName": "Javanica rice",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/rice.png",
+    "fam": "Poaceae",
+    "type": "Plant",
+    "subtype": "Cereals",
+    "description": "A subspecies of rice found mainly in Southeast Asia, with characteristics of both indica and japonica rice."
+  },
+  {
     "becId": "P-121-11-9",
     "organismName": "Zea mays",
     "organismCommonName": "Maize",
-        "becicon": "corn.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/corn.png",
+    "fam": "Poaceae",
     "type": "Plant",
-        "subtype": "Cereals",
-    "description": "A cereal plant grown for its edible grains, commonly known as corn, native to Central America."
-},
-{
+    "subtype": "Cereals",
+    "description": "A cereal plant grown for its edible grains, commonly known as corn, native to Central America.",
+    "othernames": [
+      "Cholam"
+    ]
+  },
+  {
     "becId": "P-121-12-5",
     "organismName": "Zea mays var. indentata",
     "organismCommonName": "Dent corn",
-    "becicon": "corn.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/corn.png",
+    "fam": "Poaceae",
     "type": "Plant",
     "subtype": "Cereals",
     "description": "A variety of maize known for its deep indentation at the crown of the kernel, primarily used for animal feed and industrial products."
-},
-{
+  },
+  {
     "becId": "P-121-13-1",
     "organismName": "Zea mays var. saccharata",
     "organismCommonName": "Sweet corn",
-    "becicon": "corn.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/corn.png",
+    "fam": "Poaceae",
     "type": "Plant",
     "subtype": "Cereals",
     "description": "A variety of maize with a higher sugar content, commonly consumed as a vegetable in its immature form."
-},
-{
+  },
+  {
     "becId": "P-121-14-7",
     "organismName": "Zea mays var. amylacea",
     "organismCommonName": "Flint corn",
-    "becicon": "corn.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/corn.png",
+    "fam": "Poaceae",
     "type": "Plant",
     "subtype": "Cereals",
     "description": "A variety of maize known for its hard, glassy kernels, commonly grown for flour production and certain traditional dishes."
-},
-{
+  },
+  {
     "becId": "P-121-15-3",
     "organismName": "Zea mays var. ceratina",
     "organismCommonName": "Waxy corn",
-    "becicon": "corn.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/corn.png",
+    "fam": "Poaceae",
     "type": "Plant",
     "subtype": "Cereals",
     "description": "A variety of maize that produces waxy starch, used in the production of adhesives, coatings, and other industrial products."
-},
-{
+  },
+  {
     "becId": "P-121-16-9",
     "organismName": "Zea mays var. everta",
     "organismCommonName": "Popcorn",
-    "becicon": "corn.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/corn.png",
+    "fam": "Poaceae",
     "type": "Plant",
     "subtype": "Cereals",
     "description": "A variety of maize known for its ability to pop when heated, grown specifically for popcorn production."
-},
-{
+  },
+  {
     "becId": "P-121-17-5",
     "organismName": "Zea mays var. microsperma",
     "organismCommonName": "Teosinte",
-    "becicon": "corn.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/corn.png",
+    "fam": "Poaceae",
     "type": "Plant",
     "subtype": "Cereals",
     "description": "A wild ancestor of maize, native to Mexico and Central America, known for its small and hard kernels."
-},
-{
+  },
+  {
     "becId": "P-121-18-1",
     "organismName": "Zea mays var. rugosa",
     "organismCommonName": "Pod corn",
-    "becicon": "corn.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/corn.png",
+    "fam": "Poaceae",
     "type": "Plant",
     "subtype": "Cereals",
     "description": "A rare variety of maize where each kernel is enclosed in a husk, often used for ornamental purposes."
-},
-    {
+  },
+  {
     "becId": "P-142-11-9",
     "organismName": "Sorghum bicolor",
     "organismCommonName": "Sorghum",
     "type": "Plant",
     "description": "A drought-resistant cereal crop grown for its grain, used in food, fodder, and biofuel production."
-},
-{
+  },
+  {
     "becId": "P-151-11-8",
     "organismName": "Eleusine coracana",
     "organismCommonName": "Finger Millet",
-    "becicon": "millet2.png",
-        "fam": "Poaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/millet2.png",
+    "fam": "Poaceae",
     "type": "Plant",
     "description": "A millet species known for its high nutritional value, often used in the preparation of porridge, bread, and other dishes.",
-    "othernames": ["Ragi"]
-},
-{
+    "othernames": [
+      "Ragi",
+      "Koovaragu"
+    ]
+  },
+  {
     "becId": "P-161-11-1",
     "organismName": "Vigna mungo",
     "organismCommonName": "Black gram",
-    "becicon": "blackgram.png",
-        "fam": "Fabaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/blackgram.png",
+    "fam": "Fabaceae",
     "type": "Plant",
-    "description": "A leguminous crop known for its high protein content, commonly used in Indian cuisine."
-},
-{
+    "description": "A leguminous crop known for its high protein content, commonly used in Indian cuisine.",
+    "othernames": [
+      "Uzhunnu"
+    ]
+  },
+  {
     "becId": "P-162-11-5",
     "organismName": "Vigna radiata",
     "organismCommonName": "Greengram",
-    "becicon": "greengram.png",
-        "fam": "Fabaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/beans.png",
+    "fam": "Fabaceae",
     "type": "Plant",
-    "description": "A leguminous crop used in the production of sprouts and as a staple food in many Asian countries."
-},
-{
+    "description": "A leguminous crop used in the production of sprouts and as a staple food in many Asian countries.",
+    "othernames": [
+      "Cherupayar"
+    ]
+  },
+  {
     "becId": "P-163-11-9",
     "organismName": "Vigna unguiculata",
     "organismCommonName": "Cowpea",
     "becicon": "cowpea.png",
-        "fam": "Fabaceae",
+    "fam": "Fabaceae",
     "type": "Plant",
     "description": "A legume grown for its edible beans, rich in protein, often used in both human and animal feed."
-},
-{
+  },
+  {
     "becId": "P-174-11-6",
     "organismName": "Phaseolus vulgaris",
     "organismCommonName": "French bean",
     "type": "Plant",
-    "description": "A common legume known for its edible pods and beans, widely consumed in many cuisines around the world."
-},
-{
+    "description": "A common legume known for its edible pods and beans, widely consumed in many cuisines around the world.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/frenchbeans.png",
+    "fam": "Fabaceae",
+    "othernames": [
+      "Beans"
+    ]
+  },
+  {
     "becId": "P-182-11-1",
     "organismName": "Pisum sativum",
     "organismCommonName": "Green pea",
     "type": "Plant",
-    "description": "A leguminous crop known for its edible seeds, often used in soups, stews, and salads."
-},
-{
+    "description": "A leguminous crop known for its edible seeds, often used in soups, stews, and salads.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/peas.png",
+    "fam": "Fabaceae",
+    "othernames": [
+      "Green peas"
+    ]
+  },
+  {
     "becId": "P-194-11-2",
     "organismName": "Macrotyloma uniflorum",
     "organismCommonName": "Horse gram",
-    "becicon": "horsegram.png",
-        "fam": "Fabaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/horsegram.png",
+    "fam": "Fabaceae",
     "type": "Plant",
-    "description": "A leguminous crop grown primarily in dry regions, used for both human consumption and fodder."
-},
-{
+    "description": "A leguminous crop grown primarily in dry regions, used for both human consumption and fodder.",
+    "othernames": [
+      "Muthira"
+    ]
+  },
+  {
     "becId": "P-201-11-5",
     "organismName": "Cajanus cajan",
     "organismCommonName": "Red gram",
-    "becicon": "redgram.png",
-        "fam": "Fabaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/redgram.png",
+    "fam": "Fabaceae",
     "type": "Plant",
-    "description": "A legume commonly grown for its seeds, also known as pigeon pea, used in various culinary dishes."
-},
-{
+    "description": "A legume commonly grown for its seeds, also known as pigeon pea, used in various culinary dishes.",
+    "othernames": [
+      "Thuvarappayar"
+    ]
+  },
+  {
     "becId": "P-221-11-1",
     "organismName": "Glycine max",
     "organismCommonName": "Soybean",
-    "becicon": "soybean.png",
-        "fam": "Fabaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/soybean.png",
+    "fam": "Fabaceae",
     "type": "Plant",
-    "description": "A leguminous crop grown for its high-protein seeds, widely used in food products like tofu, soy milk, and oil."
-},
-    {
+    "description": "A leguminous crop grown for its high-protein seeds, widely used in food products like tofu, soy milk, and oil.",
+    "othernames": [
+      "Soyabean"
+    ]
+  },
+  {
     "becId": "P-432-11-2",
     "organismName": "Amorphophallus paeoniifolius",
     "organismCommonName": "Elephant foot yam",
-        "becicon": "yam.png",
-        "fam": "Araceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/elephantyam.png",
+    "fam": "Araceae",
     "type": "Plant",
-    "description": "A species of yam with a large, bulbous root used in traditional cuisine, known for its medicinal properties."
-},
-{
+    "description": "A species of yam with a large, bulbous root used in traditional cuisine, known for its medicinal properties.",
+    "othernames": [
+      "Chena"
+    ]
+  },
+  {
     "becId": "P-453-11-2",
     "organismName": "Xanthosoma sagittifolium",
     "organismCommonName": "Xanthosoma",
-    "becicon": "tannia.png",
-        "fam": "Araceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/tannia.png",
+    "fam": "Araceae",
     "type": "Plant",
-    "description": "A tropical plant with edible tubers, also known as malanga, commonly used in Caribbean and African cuisines."
-},
-{
+    "description": "A tropical plant with edible tubers, also known as malanga, commonly used in Caribbean and African cuisines.",
+    "othernames": [
+      "Palchembu",
+      "Xanthosoma"
+    ]
+  },
+  {
     "becId": "P-474-11-2",
     "organismName": "Colocasia esculenta",
     "organismCommonName": "Colocasia",
     "type": "Plant",
-    "description": "A species of plant cultivated for its starchy tubers, also known as taro, widely used in various cuisines worldwide."
-},
-{
+    "description": "A species of plant cultivated for its starchy tubers, also known as taro, widely used in various cuisines worldwide.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/taro.png",
+    "fam": "Araceae",
+    "othernames": [
+      "Chembu",
+      "Colocasia"
+    ]
+  },
+  {
     "becId": "P-495-11-2",
     "organismName": "Dioscorea alata",
     "organismCommonName": "Greater yam",
     "type": "Plant",
-    "description": "A species of yam known for its large, starchy tubers, commonly grown in Asia, Africa, and the Pacific Islands."
-},
-{
+    "description": "A species of yam known for its large, starchy tubers, commonly grown in Asia, Africa, and the Pacific Islands.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/yam.png",
+    "fam": "Dioscoreaceae",
+    "othernames": [
+      "Kachil"
+    ]
+  },
+  {
     "becId": "P-516-11-4",
     "organismName": "Dioscorea esculenta",
     "organismCommonName": "Lesser yam",
     "type": "Plant",
-    "description": "A variety of yam known for its smaller, softer tubers, often grown in Southeast Asia and the Pacific Islands."
-},
-{
+    "description": "A variety of yam known for its smaller, softer tubers, often grown in Southeast Asia and the Pacific Islands.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/lesseryam.png",
+    "fam": "Dioscoreaceae",
+    "othernames": [
+      "Cherukizhangu"
+    ]
+  },
+  {
     "becId": "P-537-11-4",
     "organismName": "Dioscorea rotundata",
     "organismCommonName": "White yam",
     "type": "Plant",
-    "description": "A species of yam widely cultivated in West Africa, known for its white-fleshed tubers used in traditional dishes."
-},
-{
+    "description": "A species of yam widely cultivated in West Africa, known for its white-fleshed tubers used in traditional dishes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/yam.png",
+    "fam": "Dioscoreaceae",
+    "othernames": [
+      "African Kachil"
+    ]
+  },
+  {
     "becId": "P-558-11-4",
-    "organismName": "Ipomoea batatas",
+    "organismName": "Ipomoea batatus",
     "organismCommonName": "Sweet potato",
     "type": "Plant",
-    "description": "A species of root vegetable with sweet-tasting tubers, used in a variety of culinary dishes worldwide."
-},
-{
+    "description": "A species of root vegetable with sweet-tasting tubers, used in a variety of culinary dishes worldwide.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/sweetpotato.png",
+    "fam": "Convolvulaceae",
+    "othernames": [
+      "Cheenikizhangu"
+    ]
+  },
+  {
     "becId": "P-579-11-4",
     "organismName": "Manihot esculenta",
     "organismCommonName": "Tapioca",
     "type": "Plant",
-    "description": "A species of root vegetable known for its starchy tubers, used to produce tapioca pearls and flour."
-},
-{
+    "description": "A species of root vegetable known for its starchy tubers, used to produce tapioca pearls and flour.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/tapioca.png",
+    "fam": "Euphorbiaceae",
+    "othernames": [
+      "Maracheeni",
+      "Cassava"
+    ]
+  },
+  {
     "becId": "P-600-11-9",
     "organismName": "Coleus forskohlii",
     "organismCommonName": "Coleus",
     "type": "Plant",
-    "description": "A tropical plant known for its medicinal properties, often used in traditional medicine for its active compound, forskolin."
-},
-    {
+    "description": "A tropical plant known for its medicinal properties, often used in traditional medicine for its active compound, forskolin.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/Chinesepotato.png",
+    "fam": "Lamiaceae",
+    "othernames": [
+      "Koorka",
+      "Chinese Potato"
+    ]
+  },
+  {
     "becId": "P-721-11-1",
     "organismName": "Anacardium occidentale",
     "organismCommonName": "Cashew",
     "type": "Plant",
-    "description": "A tropical tree that produces cashew nuts and cashew apples, widely grown for its edible seeds."
-},
-{
+    "description": "A tropical tree that produces cashew nuts and cashew apples, widely grown for its edible seeds.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cashew-apple.png",
+    "fam": "Anacardiaceae",
+    "othernames": [
+      "Kasuvandi"
+    ]
+  },
+  {
     "becId": "P-732-11-8",
     "organismName": "Gossypium hirsutum",
     "organismCommonName": "Cotton",
     "type": "Plant",
-    "description": "A species of cotton plant, widely cultivated for its fiber, used in textiles and other products."
-},
-{
+    "description": "A species of cotton plant, widely cultivated for its fiber, used in textiles and other products.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cotton.png",
+    "fam": "Malvaceae",
+    "othernames": [
+      "Paruthi"
+    ]
+  },
+  {
     "becId": "P-743-11-5",
     "organismName": "Hevea brasiliensis",
     "organismCommonName": "Rubber",
     "type": "Plant",
-    "description": "A species of tree from which natural rubber is extracted, widely grown in tropical regions."
-},
-{
+    "description": "A species of tree from which natural rubber is extracted, widely grown in tropical regions.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/rubber.png",
+    "fam": "Euphorbiaceae",
+    "othernames": [
+      "Rubber"
+    ]
+  },
+  {
     "becId": "P-754-11-2",
     "organismName": "Saccharum officinarum",
     "organismCommonName": "Sugarcane",
     "type": "Plant",
-    "description": "A tropical plant cultivated for its high sugar content, used for producing sugar, ethanol, and molasses."
-},
-{
+    "description": "A tropical plant cultivated for its high sugar content, used for producing sugar, ethanol, and molasses.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/sugar.png",
+    "fam": "Poaceae",
+    "othernames": [
+      "Karimbu"
+    ]
+  },
+  {
     "becId": "P-765-11-9",
     "organismName": "Cocos nucifera",
     "organismCommonName": "Coconut",
     "type": "Plant",
-    "description": "A tropical tree known for its edible fruit, the coconut, used in food, cosmetics, and oil production."
-},
-{
+    "description": "A tropical tree known for its edible fruit, the coconut, used in food, cosmetics, and oil production.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/coconutopen.png",
+    "fam": "Arecaceae",
+    "othernames": [
+      "Thengu"
+    ]
+  },
+  {
     "becId": "P-776-11-6",
     "organismName": "Arachis hypogaea",
     "organismCommonName": "Groundnut",
     "type": "Plant",
-    "description": "A legume plant cultivated for its edible seeds, commonly known as peanuts, widely used in cooking and oil production."
-},
-{
+    "description": "A legume plant cultivated for its edible seeds, commonly known as peanuts, widely used in cooking and oil production.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/peanut.png",
+    "fam": "Fabaceae",
+    "othernames": [
+      "Nilakkadala"
+    ]
+  },
+  {
     "becId": "P-787-11-3",
     "organismName": "Elaeis guineensis",
     "organismCommonName": "Oilpalm",
     "type": "Plant",
-    "description": "A tropical plant species from which palm oil is extracted, widely cultivated for its oil-rich fruit."
-},
-{
+    "description": "A tropical plant species from which palm oil is extracted, widely cultivated for its oil-rich fruit.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/palm-oil.png",
+    "fam": "Arecaceae",
+    "othernames": [
+      "Ennappana"
+    ]
+  },
+  {
     "becId": "P-798-11-0",
     "organismName": "Sesamum indicum",
     "organismCommonName": "Sesame",
     "type": "Plant",
-    "description": "A flowering plant grown for its seeds, which are used in cooking, oil production, and various food products."
-},
-    {
+    "description": "A flowering plant grown for its seeds, which are used in cooking, oil production, and various food products.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/sesame.png",
+    "fam": "Pedaliaceae",
+    "othernames": [
+      "Ellu"
+    ]
+  },
+  {
     "becId": "P-1012-11",
     "organismName": "Elettaria cardamomum",
     "organismCommonName": "Cardamom",
     "type": "Plant",
-    "description": "A spice derived from the seeds of the cardamom plant, widely used in cooking and traditional medicine."
-},
-{
+    "description": "A spice derived from the seeds of the cardamom plant, widely used in cooking and traditional medicine.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cardamom.png",
+    "fam": "Zingiberaceae",
+    "othernames": [
+      "Elam"
+    ]
+  },
+  {
     "becId": "P-1015-11",
     "organismName": "Cinnamomum verum",
     "organismCommonName": "Cinnamon",
     "type": "Plant",
-    "description": "A spice obtained from the inner bark of trees from the genus Cinnamomum, used in both sweet and savory dishes."
-},
-{
+    "description": "A spice obtained from the inner bark of trees from the genus Cinnamomum, used in both sweet and savory dishes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cinnamon.png",
+    "fam": "Lauraceae",
+    "othernames": [
+      "Karuvapatta"
+    ]
+  },
+  {
     "becId": "P-1018-11",
     "organismName": "Syzygium aromaticum",
     "organismCommonName": "Clove",
     "type": "Plant",
-    "description": "A spice made from the dried flower buds of the clove tree, used in cooking and for medicinal purposes."
-},
-{
+    "description": "A spice made from the dried flower buds of the clove tree, used in cooking and for medicinal purposes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/clove.png",
+    "fam": "Myrtaceae",
+    "othernames": [
+      "Grampu"
+    ]
+  },
+  {
     "becId": "P-1021-11",
     "organismName": "Vanilla planifolia",
     "organismCommonName": "Vanilla",
     "type": "Plant",
-    "description": "A tropical climbing plant that produces vanilla beans, used as a flavoring in various food products."
-},
-{
+    "description": "A tropical climbing plant that produces vanilla beans, used as a flavoring in various food products.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/vanilla.png",
+    "fam": "Orchidaceae",
+    "othernames": [
+      "Vanilla"
+    ]
+  },
+  {
     "becId": "P-1024-11",
     "organismName": "Zingiber officinale",
     "organismCommonName": "Ginger",
     "type": "Plant",
-    "description": "A flowering plant known for its aromatic rhizome, used as a spice and for medicinal purposes."
-},
-{
+    "description": "A flowering plant known for its aromatic rhizome, used as a spice and for medicinal purposes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/ginger.png",
+    "fam": "Zingiberaceae",
+    "othernames": [
+      "Inchi"
+    ]
+  },
+  {
     "becId": "P-1027-11",
     "organismName": "Curcuma amada",
     "organismCommonName": "Mango ginger",
     "type": "Plant",
-    "description": "A plant with rhizomes that taste like mango, used in traditional cuisine and for medicinal purposes."
-},
-{
+    "description": "A plant with rhizomes that taste like mango, used in traditional cuisine and for medicinal purposes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/mangoginger.png",
+    "fam": "Zingiberaceae",
+    "othernames": [
+      "Manga inchi"
+    ]
+  },
+  {
     "becId": "P-1030-11",
     "organismName": "Myristica fragrans",
     "organismCommonName": "Nutmeg",
     "type": "Plant",
-    "description": "A spice obtained from the seed of the nutmeg tree, used in baking and cooking."
-},
-{
+    "description": "A spice obtained from the seed of the nutmeg tree, used in baking and cooking.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/nutmeg.png",
+    "fam": "Myristicaceae",
+    "othernames": [
+      "Jathika"
+    ]
+  },
+  {
     "becId": "P-1033-11",
     "organismName": "Piper nigrum",
     "organismCommonName": "Black Pepper",
     "type": "Plant",
-    "description": "A flowering vine that produces peppercorns, the dried fruit of which is used as a spice."
-},
-{
+    "description": "A flowering vine that produces peppercorns, the dried fruit of which is used as a spice.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/pepper.png",
+    "fam": "Piperaceae",
+    "othernames": [
+      "Kurumulaku"
+    ]
+  },
+  {
     "becId": "P-1036-11",
     "organismName": "Curcuma longa",
     "organismCommonName": "Turmeric",
     "type": "Plant",
-    "description": "A bright yellow spice derived from the root of the turmeric plant, used in cooking and for its medicinal properties."
-},
-{
+    "description": "A bright yellow spice derived from the root of the turmeric plant, used in cooking and for its medicinal properties.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/turmeric.png",
+    "fam": "Zingiberaceae",
+    "othernames": [
+      "Manjal"
+    ]
+  },
+  {
     "becId": "P-1039-11",
     "organismName": "Garcinia cambogia",
     "organismCommonName": "Camboge",
     "type": "Plant",
-    "description": "A tropical fruit used in traditional medicine and as a weight loss supplement."
-},
-{
+    "description": "A tropical fruit used in traditional medicine and as a weight loss supplement.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/camboge.png",
+    "fam": "Clusiaceae",
+    "othernames": [
+      "Kudampuli"
+    ]
+  },
+  {
     "becId": "P-1042-11",
     "organismName": "Tamarindus indica",
     "organismCommonName": "Tamarind",
     "type": "Plant",
-    "description": "A leguminous tree that produces a sour and tangy fruit, widely used in culinary dishes and for its medicinal benefits."
-},
-    {
+    "description": "A leguminous tree that produces a sour and tangy fruit, widely used in culinary dishes and for its medicinal benefits.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/tamarind.png",
+    "fam": "Leguminosae",
+    "othernames": [
+      "Puli"
+    ]
+  },
+  {
     "becId": "P-1045-11",
     "organismName": "Areca catechu",
     "organismCommonName": "Arecanut",
     "type": "Plant",
-    "description": "A tropical palm known for its seed, the arecanut, commonly used in betel chewing and for medicinal purposes."
-},
-{
+    "description": "A tropical palm known for its seed, the arecanut, commonly used in betel chewing and for medicinal purposes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/arecanut.png",
+    "fam": "Arecaceae",
+    "othernames": [
+      "Kamuku"
+    ]
+  },
+  {
     "becId": "P-1048-11",
     "organismName": "Piper betle",
     "organismCommonName": "Betel Vine",
     "type": "Plant",
-    "description": "A vine whose leaves are chewed with arecanut, commonly used in Southeast Asia for its stimulant properties."
-},
-{
+    "description": "A vine whose leaves are chewed with arecanut, commonly used in Southeast Asia for its stimulant properties.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/betelvine.png",
+    "fam": "Piperaceae",
+    "othernames": [
+      "Vettila"
+    ]
+  },
+  {
     "becId": "P-1051-11",
     "organismName": "Theobroma cacao",
     "organismCommonName": "Cocoa",
     "type": "Plant",
-    "description": "A small evergreen tree whose seeds are used to produce chocolate, cocoa butter, and other food products."
-},
-{
+    "description": "A small evergreen tree whose seeds are used to produce chocolate, cocoa butter, and other food products.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cacao.png",
+    "fam": "Sterculiaceae",
+    "othernames": [
+      "Cocoa"
+    ]
+  },
+  {
     "becId": "P-1054-11",
     "organismName": "Coffea arabica",
     "organismCommonName": "Coffee",
     "type": "Plant",
-    "description": "A species of coffee plant, known for its high-quality beans, widely cultivated for coffee production."
-},
-{
+    "description": "A species of coffee plant, known for its high-quality beans, widely cultivated for coffee production.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/coffee.png",
+    "fam": "Rubiaceae",
+    "othernames": [
+      "Kappi"
+    ]
+  },
+  {
     "becId": "P-1057-11",
     "organismName": "Camellia sinensis",
     "organismCommonName": "Tea",
     "type": "Plant",
-    "description": "A species of evergreen shrub whose leaves are harvested to produce tea, one of the world's most popular beverages."
-},
-{
+    "description": "A species of evergreen shrub whose leaves are harvested to produce tea, one of the world's most popular beverages.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/tea.png",
+    "fam": "Theaceae",
+    "othernames": [
+      "Theyila"
+    ]
+  },
+  {
     "becId": "P-1060-11",
     "organismName": "Nicotiana tabacum",
     "organismCommonName": "Tobacco",
     "type": "Plant",
-    "description": "A plant grown for its leaves, which are processed to make tobacco products, primarily used for smoking and snuff."
-},
-    {
+    "description": "A plant grown for its leaves, which are processed to make tobacco products, primarily used for smoking and snuff.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/tobacco.png",
+    "fam": "Solanaceae",
+    "othernames": [
+      "Pukayila"
+    ]
+  },
+  {
     "becId": "P-1063-11",
     "organismName": "Amaranthus spp.",
     "organismCommonName": "Amaranthus",
     "type": "Plant",
-    "description": "A genus of plants used for leaf vegetables, grains, and ornamental purposes."
-},
-{
+    "description": "A genus of plants used for leaf vegetables, grains, and ornamental purposes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/spinach.png",
+    "fam": "Amaranthaceae",
+    "othernames": [
+      "Cheera"
+    ]
+  },
+  {
     "becId": "P-1066-11",
     "organismName": "Abelmoschus esculentus",
     "organismCommonName": "Okra",
     "type": "Plant",
-    "description": "A flowering plant known for its edible green seed pods used in various cuisines."
-},
-{
+    "description": "A flowering plant known for its edible green seed pods used in various cuisines.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/okra.png",
+    "fam": "Malvaceae",
+    "othernames": [
+      "Bhendi, Venda"
+    ]
+  },
+  {
     "becId": "P-1069-11",
     "organismName": "Momordica charantia",
     "organismCommonName": "Bitter Gourd",
     "type": "Plant",
-    "description": "A vine with edible, warty, green fruit, widely used in various dishes for its bitter taste."
-},
-{
+    "description": "A vine with edible, warty, green fruit, widely used in various dishes for its bitter taste.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/bitter.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Paval"
+    ]
+  },
+  {
     "becId": "P-1072-11",
     "organismName": "Trichosanthes cucumerina",
     "organismCommonName": "Snake Gourd",
     "type": "Plant",
-    "description": "A gourd-like vegetable known for its edible, long, snake-shaped fruit."
-},
-{
+    "description": "A gourd-like vegetable known for its edible, long, snake-shaped fruit.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/snakegourd.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Padavalam"
+    ]
+  },
+  {
     "becId": "P-1075-11",
     "organismName": "Cucumis sativus",
     "organismCommonName": "Cucumber",
     "type": "Plant",
-    "description": "A widely cultivated plant known for its crisp, refreshing fruit used in salads and pickles."
-},
-{
+    "description": "A widely cultivated plant known for its crisp, refreshing fruit used in salads and pickles.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cucumber.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Vellari"
+    ]
+  },
+  {
     "becId": "P-1078-11",
     "organismName": "Cucumis melo",
     "organismCommonName": "Oriental Picking Melon",
     "type": "Plant",
-    "description": "A variety of melon with a sweet flavor, often used in Asian cuisine."
-},
-{
+    "description": "A variety of melon with a sweet flavor, often used in Asian cuisine.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/musk.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Thaikumbalam"
+    ]
+  },
+  {
     "becId": "P-1081-11",
     "organismName": "Citrullus lanatus",
     "organismCommonName": "Water Melon",
     "type": "Plant",
-    "description": "A vine-like flowering plant that produces large, sweet, and juicy fruit."
-},
-{
+    "description": "A vine-like flowering plant that produces large, sweet, and juicy fruit.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/watermelon.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Thannimathan"
+    ]
+  },
+  {
     "becId": "P-1084-11",
     "organismName": "Lagenaria siceraria",
     "organismCommonName": "Bottle Gourd",
     "type": "Plant",
-    "description": "A type of gourd known for its smooth, green or white fruit used in soups and curries."
-},
-{
+    "description": "A type of gourd known for its smooth, green or white fruit used in soups and curries.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/bottlegourd.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Churakka"
+    ]
+  },
+  {
     "becId": "P-1087-11",
     "organismName": "Cucurbita pepo",
     "organismCommonName": "Pumpkin",
     "type": "Plant",
-    "description": "A widely cultivated plant known for its large, edible fruit used in cooking and baking."
-},
-{
+    "description": "A widely cultivated plant known for its large, edible fruit used in cooking and baking.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/pumpkin.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Mathan"
+    ]
+  },
+  {
     "becId": "P-1090-11",
     "organismName": "Benincasa hispida",
     "organismCommonName": "Ash Gourd",
     "type": "Plant",
-    "description": "A type of gourd with a thick white flesh used in soups, stir-fries, and desserts."
-},
-    {
+    "description": "A type of gourd with a thick white flesh used in soups, stir-fries, and desserts.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/ashgourd.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Kumbalam"
+    ]
+  },
+  {
     "becId": "P-1093-11-2",
     "organismName": "Solanum melongena",
     "organismCommonName": "Brinjal",
-        "becicon": "eggplant.png",
-        "fam": "Solanaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/eggplant.png",
+    "fam": "Solanaceae",
     "type": "Plant",
-    "description": "A popular vegetable known for its purple, oval-shaped fruit used in various culinary dishes."
-},
-{
+    "description": "A popular vegetable known for its purple, oval-shaped fruit used in various culinary dishes.",
+    "othernames": [
+      "Vazhuthana"
+    ]
+  },
+  {
     "becId": "P-1096-11-7",
     "organismName": "Capsicum annuum",
     "organismCommonName": "Chilli",
-    "becicon": "chilli.png",
-        "fam": "Solanaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/chilli.png",
+    "fam": "Solanaceae",
     "type": "Plant",
-    "description": "A fruit-bearing plant used for its spicy, pungent fruit in cooking, commonly used in hot sauces and seasonings."
-},
-{
+    "description": "A fruit-bearing plant used for its spicy, pungent fruit in cooking, commonly used in hot sauces and seasonings.",
+    "othernames": [
+      "Mulaku"
+    ]
+  },
+  {
     "becId": "P-1099-11-2",
     "organismName": "Solanum lycopersicum",
     "organismCommonName": "Tomato",
-    "becicon": "tomato.png",
-        "fam": "Solanaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/tomato.png",
+    "fam": "Solanaceae",
     "type": "Plant",
-    "description": "A flowering plant known for its red, juicy fruit, widely used in sauces, salads, and many dishes."
-},
-{
+    "description": "A flowering plant known for its red, juicy fruit, widely used in sauces, salads, and many dishes.",
+    "othernames": [
+      "Thakkali"
+    ]
+  },
+  {
     "becId": "P-1102-11-4",
     "organismName": "Vigna unguiculata",
     "organismCommonName": "Vegetable Cowpea",
     "type": "Plant",
-    "description": "A leguminous plant grown for its edible pods and beans used in various dishes."
-},
-{
+    "description": "A leguminous plant grown for its edible pods and beans used in various dishes.",
+    "becicon": "cowpea.png"
+  },
+  {
     "becId": "P-1105-11",
     "organismName": "Brassica oleracea var. capitata",
     "organismCommonName": "Cabbage",
     "type": "Plant",
-    "description": "A leafy green vegetable known for its dense, leafy head, used in salads, soups, and coleslaw."
-},
-{
+    "description": "A leafy green vegetable known for its dense, leafy head, used in salads, soups, and coleslaw.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cabbage.png",
+    "fam": "Brassicaceae",
+    "othernames": [
+      "Muttakose"
+    ]
+  },
+  {
     "becId": "P-1108-11",
     "organismName": "Brassica oleracea var. botrytis",
     "organismCommonName": "Cauliflower",
     "type": "Plant",
-    "description": "A variety of cabbage, known for its white, edible inflorescence used in many dishes."
-},
-{
+    "description": "A variety of cabbage, known for its white, edible inflorescence used in many dishes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cauliflower.png",
+    "fam": "Brassicaceae",
+    "othernames": [
+      "Cauliflower"
+    ]
+  },
+  {
     "becId": "P-1111-11",
     "organismName": "Daucus carota",
     "organismCommonName": "Carrot",
     "type": "Plant",
-    "description": "A root vegetable known for its orange color and sweetness, commonly used in cooking and salads."
-},
-{
+    "description": "A root vegetable known for its orange color and sweetness, commonly used in cooking and salads.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/carrot.png",
+    "fam": "Apiaceae",
+    "othernames": [
+      "Carrot"
+    ]
+  },
+  {
     "becId": "P-1114-11",
     "organismName": "Beta vulgaris",
     "organismCommonName": "Beetroot",
     "type": "Plant",
-    "description": "A root vegetable known for its purple color and earthy flavor, often used in salads and juices."
-},
-{
+    "description": "A root vegetable known for its purple color and earthy flavor, often used in salads and juices.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/beet.png",
+    "fam": "Chenopodiaceae",
+    "othernames": [
+      "Beet"
+    ]
+  },
+  {
     "becId": "P-1117-11",
     "organismName": "Raphanus sativus",
     "organismCommonName": "Radish",
     "type": "Plant",
-    "description": "A fast-growing root vegetable known for its crisp texture and peppery taste, often used in salads."
-},
-{
+    "description": "A fast-growing root vegetable known for its crisp texture and peppery taste, often used in salads.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/radish.png",
+    "fam": "Brassicaceae",
+    "othernames": [
+      "Mullangi"
+    ]
+  },
+  {
     "becId": "P-1120-11",
     "organismName": "Solanum tuberosum",
     "organismCommonName": "Potato",
     "type": "Plant",
-    "description": "A starchy tuber used widely in cooking for mashed potatoes, fries, and various other dishes."
-},
-{
+    "description": "A starchy tuber used widely in cooking for mashed potatoes, fries, and various other dishes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/potato.png",
+    "fam": "Solanaceae",
+    "othernames": [
+      "Urulakizhangu"
+    ]
+  },
+  {
     "becId": "P-1123-11",
     "organismName": "Allium cepa",
     "organismCommonName": "Onion",
-        "becicon": "onion.png",
-        "fam": "Liliaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/onion.png",
+    "fam": "Liliaceae",
     "type": "Plant",
-    "description": "A vegetable with a strong aroma used widely in cooking to enhance flavor."
-},
-{
+    "description": "A vegetable with a strong aroma used widely in cooking to enhance flavor.",
+    "othernames": [
+      "Ulli"
+    ]
+  },
+  {
     "becId": "P-1126-11",
     "organismName": "Allium sativum",
     "organismCommonName": "Garlic",
-    "becicon": "garlic.png",
-        "fam": "Liliaceae",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/garlic.png",
+    "fam": "Liliaceae",
     "type": "Plant",
-    "description": "A species of bulbous plants used for its strong aroma and flavor in cooking and for medicinal purposes."
-},
-{
+    "description": "A species of bulbous plants used for its strong aroma and flavor in cooking and for medicinal purposes.",
+    "othernames": [
+      "Veluthulli"
+    ]
+  },
+  {
     "becId": "P-1129-11-7",
     "organismName": "Lablab purpureus",
     "organismCommonName": "Dolichos Bean",
     "type": "Plant",
-    "description": "A leguminous plant grown for its edible beans and pods, used in many cuisines."
-},
-{
+    "description": "A leguminous plant grown for its edible beans and pods, used in many cuisines.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/indianbeans.png",
+    "fam": "Fabaceae",
+    "othernames": [
+      "Amara"
+    ]
+  },
+  {
     "becId": "P-1132-11-6",
     "organismName": "Psophocarpus tetragonolobus",
     "organismCommonName": "Winged Bean",
     "type": "Plant",
     "description": "A leguminous plant grown for its edible leaves, flowers, seeds, and roots."
-},
-{
+  },
+  {
     "becId": "P-1135-11-1",
     "organismName": "Cyamopsis tetragonoloba",
     "organismCommonName": "Cluster Bean",
     "type": "Plant",
     "description": "A drought-tolerant legume grown for its edible pods, seeds, and as a fodder crop."
-},
-{
+  },
+  {
     "becId": "P-1138-11",
     "organismName": "Canavalia gladiata",
     "organismCommonName": "Sword Bean",
     "type": "Plant",
-    "description": "A leguminous plant with large, flat seeds, used for culinary and medicinal purposes."
-},
-{
+    "description": "A leguminous plant with large, flat seeds, used for culinary and medicinal purposes.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/swordbean.png",
+    "fam": "Fabaceae",
+    "othernames": [
+      "Valaringa"
+    ]
+  },
+  {
     "becId": "P-1141-11",
     "organismName": "Canavalia ensiformis",
     "organismCommonName": "Jack Bean",
     "type": "Plant",
     "description": "A legume grown for its edible seeds, used in various dishes and as a forage crop."
-},
-{
+  },
+  {
     "becId": "P-1144-11",
     "organismName": "Phaseolus lunatus",
     "organismCommonName": "Clove Bean",
     "type": "Plant",
     "description": "A legume known for its edible seeds and used in cooking in various cultures."
-},
-{
+  },
+  {
     "becId": "P-1147-11",
     "organismName": "Coccinia grandis",
     "organismCommonName": "Ivy Gourd",
     "type": "Plant",
-    "description": "A climbing plant with small, edible fruit used in curries and stir-fries."
-},
-{
+    "description": "A climbing plant with small, edible fruit used in curries and stir-fries.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/littlegourd.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Koval"
+    ]
+  },
+  {
     "becId": "P-1150-11",
     "organismName": "Luffa cylindrica",
     "organismCommonName": "Smooth Gourd",
     "type": "Plant",
     "description": "A plant known for its fibrous fruit, often used in sponges and as a vegetable."
-},
-{
+  },
+  {
     "becId": "P-1153-11",
     "organismName": "Luffa acutangula",
     "organismCommonName": "Ridge Gourd",
     "type": "Plant",
-    "description": "A fast-growing gourd plant with ridged fruits commonly used in soups and curries."
-},
-{
+    "description": "A fast-growing gourd plant with ridged fruits commonly used in soups and curries.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/ridge.png",
+    "fam": "Cucurbitaceae",
+    "othernames": [
+      "Peechanga"
+    ]
+  },
+  {
     "becId": "P-1156-11",
     "organismName": "Capsicum annuum",
     "organismCommonName": "Bell Pepper",
     "type": "Plant",
-    "description": "A fruiting plant known for its colorful, sweet peppers commonly used in cooking."
-},
-{
+    "description": "A fruiting plant known for its colorful, sweet peppers commonly used in cooking.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/chilli.png",
+    "fam": "Solanaceae",
+    "othernames": [
+      "Mulaku"
+    ]
+  },
+  {
     "becId": "P-1159-11",
     "organismName": "Moringa oleifera",
     "organismCommonName": "Drumstick",
     "type": "Plant",
-    "description": "A tree known for its edible pods, leaves, and seeds, valued for its nutritional and medicinal properties."
-},
-{
+    "description": "A tree known for its edible pods, leaves, and seeds, valued for its nutritional and medicinal properties.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/moringa.png",
+    "fam": "Moringaceae",
+    "othernames": [
+      "Muringa"
+    ]
+  },
+  {
     "becId": "P-1162-11",
     "organismName": "Basella alba",
     "organismCommonName": "Indian Spinach",
     "type": "Plant",
     "description": "A fast-growing vine with edible leaves, widely consumed as a leafy vegetable."
-},
-{
+  },
+  {
     "becId": "P-1165-11",
     "organismName": "Murraya koenigii",
     "organismCommonName": "Curry Leaf",
     "type": "Plant",
     "description": "A small tree whose aromatic leaves are used as a herb in Indian cuisine."
-},
-    {
+  },
+  {
     "becId": "P-1180-11",
     "organismName": "Musa spp.",
     "organismCommonName": "Banana",
     "type": "Plant",
-    "description": "A tropical fruit-bearing plant known for its elongated yellow fruit, rich in potassium."
-},
-{
+    "description": "A tropical fruit-bearing plant known for its elongated yellow fruit, rich in potassium.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/banana.png",
+    "fam": "Musaceae",
+    "othernames": [
+      "Vazha"
+    ]
+  },
+  {
     "becId": "P-1183-11",
     "organismName": "Psidium guajava",
     "organismCommonName": "Guava",
     "type": "Plant",
-    "description": "A tropical fruit-bearing plant known for its sweet, tangy fruit, often eaten raw or used in juices."
-},
-{
+    "description": "A tropical fruit-bearing plant known for its sweet, tangy fruit, often eaten raw or used in juices.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/guava.png",
+    "fam": "Myrtaceae",
+    "othernames": [
+      "Perakka"
+    ]
+  },
+  {
     "becId": "P-1186-11",
     "organismName": "Phyllanthus emblica",
     "organismCommonName": "Indian Gooseberry",
     "type": "Plant",
-    "description": "A deciduous tree known for its sour, green fruit, often used in traditional medicine."
-},
-{
+    "description": "A deciduous tree known for its sour, green fruit, often used in traditional medicine.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/gooseberry.png",
+    "fam": "Phyllanthaceae",
+    "othernames": [
+      "Nellika"
+    ]
+  },
+  {
     "becId": "P-1189-11",
     "organismName": "Artocarpus heterophyllus",
     "organismCommonName": "Jack",
     "type": "Plant",
-    "description": "A tropical fruit tree known for its large, jackfruit, used for its sweet, fibrous fruit."
-},
-{
+    "description": "A tropical fruit tree known for its large, jackfruit, used for its sweet, fibrous fruit.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/fruit.png",
+    "fam": "Moraceae",
+    "othernames": [
+      "Chakka"
+    ]
+  },
+  {
     "becId": "P-1192-11",
     "organismName": "Citrus reticulata",
     "organismCommonName": "Mandarin Orange",
     "type": "Plant",
-    "description": "A small citrus tree known for its sweet, easy-to-peel fruit."
-},
-{
+    "description": "A small citrus tree known for its sweet, easy-to-peel fruit.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/orange.png",
+    "fam": "Rutaceae",
+    "othernames": [
+      "Orange"
+    ]
+  },
+  {
     "becId": "P-1195-11",
     "organismName": "Mangifera indica",
     "organismCommonName": "Mango",
     "type": "Plant",
-    "description": "A tropical fruit-bearing tree known for its sweet, juicy fruit, commonly referred to as the 'king of fruits.'"
-},
-{
+    "description": "A tropical fruit-bearing tree known for its sweet, juicy fruit, commonly referred to as the 'king of fruits.'",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/mango.png",
+    "fam": "Anacardiaceae",
+    "othernames": [
+      "Manga"
+    ]
+  },
+  {
     "becId": "P-1198-11",
     "organismName": "Carica papaya",
     "organismCommonName": "Papaya",
     "type": "Plant",
-    "description": "A tropical fruit-bearing tree known for its soft, orange fruit with a sweet flavor."
-},
-{
+    "description": "A tropical fruit-bearing tree known for its soft, orange fruit with a sweet flavor.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/papaya.png",
+    "fam": "Caricaceae",
+    "othernames": [
+      "Pappakka"
+    ]
+  },
+  {
     "becId": "P-1201-11",
     "organismName": "Ananas comosus",
     "organismCommonName": "Pineapple",
     "type": "Plant",
-    "description": "A tropical fruit plant known for its sweet, tangy fruit with a rough, spiky exterior."
-},
-{
+    "description": "A tropical fruit plant known for its sweet, tangy fruit with a rough, spiky exterior.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/pineapple.png",
+    "fam": "Bromeliaceae",
+    "othernames": [
+      "Kaithachakka"
+    ]
+  },
+  {
     "becId": "P-1204-11",
     "organismName": "Manilkara zapota",
     "organismCommonName": "Sapota",
     "type": "Plant",
-    "description": "A tropical tree known for its sweet, brown fruit with a grainy texture, also known as chikoo."
-},
-{
+    "description": "A tropical tree known for its sweet, brown fruit with a grainy texture, also known as chikoo.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/sapota.png",
+    "fam": "Sapotaceae",
+    "othernames": [
+      "Sapota"
+    ]
+  },
+  {
     "becId": "P-1207-11",
     "organismName": "Fragaria × ananassa",
     "organismCommonName": "Strawberry",
     "type": "Plant",
     "description": "A widely cultivated fruit-bearing plant known for its sweet, red, and juicy fruit."
-},
-{
+  },
+  {
     "becId": "P-1210-11",
     "organismName": "Malpighia emarginata",
     "organismCommonName": "West Indian Cherry",
     "type": "Plant",
-    "description": "A small tropical tree known for its tart, cherry-like fruit rich in vitamin C."
-},
-{
+    "description": "A small tropical tree known for its tart, cherry-like fruit rich in vitamin C.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/cherry.png",
+    "fam": "Malpighiacei",
+    "othernames": [
+      "West Indian cherry"
+    ]
+  },
+  {
     "becId": "P-1213-11",
     "organismName": "Malus domestica",
     "organismCommonName": "Apple",
     "type": "Plant",
     "description": "A deciduous tree known for its round, crisp fruit, which comes in a variety of flavors and is widely cultivated."
-},
-    {
+  },
+  {
     "becId": "P-1216-11",
     "organismName": "Anthurium andraeanum",
     "organismCommonName": "Anthurium",
     "type": "Plant",
     "description": "A tropical flowering plant known for its brightly colored spathes and ornamental appeal."
-},
-{
+  },
+  {
     "becId": "P-1219-11",
     "organismName": "Orchidaceae spp.",
     "organismCommonName": "Orchid",
     "type": "Plant",
     "description": "A diverse family of flowering plants known for their unique and beautiful flowers."
-},
-{
+  },
+  {
     "becId": "P-1222-11",
     "organismName": "Jasminum sambac",
     "organismCommonName": "Jasmine",
     "type": "Plant",
     "description": "A fragrant flowering plant widely cultivated for its aromatic flowers, often used in perfumes."
-},
-{
+  },
+  {
     "becId": "P-1225-11",
     "organismName": "Gladiolus hortulanus",
     "organismCommonName": "Gladiolus",
     "type": "Plant",
     "description": "A genus of flowering plants known for their tall spikes of colorful flowers, often used in floral arrangements."
-},
-{
+  },
+  {
     "becId": "P-1228-11",
     "organismName": "Polianthes tuberosa",
     "organismCommonName": "Tuberose",
     "type": "Plant",
     "description": "A perennial plant known for its highly fragrant white flowers, often used in perfumes."
-},
-{
+  },
+  {
     "becId": "P-1231-11",
     "organismName": "Crossandra infundibuliformis",
     "organismCommonName": "Crossandra",
     "type": "Plant",
     "description": "A flowering plant known for its bright, orange to yellow tubular flowers."
-},
-{
+  },
+  {
     "becId": "P-1234-11",
     "organismName": "Tagetes erecta",
     "organismCommonName": "Marigold",
     "type": "Plant",
     "description": "A flowering plant known for its bright, vibrant flowers commonly used in gardens and cultural rituals."
-},
-{
+  },
+  {
     "becId": "P-1237-11",
     "organismName": "Callistephus chinensis",
     "organismCommonName": "China Aster",
     "type": "Plant",
     "description": "A flowering plant known for its colorful, daisy-like flowers, commonly grown as ornamental plants."
-},
-    {
+  },
+  {
     "becId": "P-1240-11",
     "organismName": "Eucalyptus spp.",
     "organismCommonName": "Eucalyptus",
     "type": "Plant",
     "description": "A genus of fast-growing trees known for their aromatic leaves, commonly used in essential oils and timber."
-},
-{
+  },
+  {
     "becId": "P-1243-11",
     "organismName": "Kaempferia galanga",
     "organismCommonName": "Kacholam",
     "type": "Plant",
     "description": "A flowering plant known for its aromatic rhizomes, used in traditional medicine and as a spice."
-},
-{
+  },
+  {
     "becId": "P-1246-11",
     "organismName": "Cymbopogon citratus",
     "organismCommonName": "Lemongrass",
     "type": "Plant",
     "description": "A tropical grass known for its citrus flavor, commonly used in cooking and herbal tea."
-},
-{
+  },
+  {
     "becId": "P-1249-11",
     "organismName": "Cymbopogon martinii",
     "organismCommonName": "Palmarosa",
     "type": "Plant",
     "description": "A grass species known for its fragrant oil, used in perfumes and aromatherapy."
-},
-{
+  },
+  {
     "becId": "P-1252-11",
     "organismName": "Chrysopogon zizanioides",
     "organismCommonName": "Vetiver",
     "type": "Plant",
     "description": "A perennial grass known for its fragrant roots, used in perfumes, oils, and traditional medicine."
-},
-{
+  },
+  {
     "becId": "P-1255-11",
     "organismName": "Crotalaria verrucosa",
     "organismCommonName": "Chethikoduveli",
     "type": "Plant",
     "description": "A plant species found in tropical regions, traditionally used in folk medicine."
-},
-{
+  },
+  {
     "becId": "P-1258-11",
     "organismName": "Clitoria ternatea",
     "organismCommonName": "Neela Amari",
     "type": "Plant",
-    "description": "A climbing plant known for its blue flowers, used in traditional medicine and as a natural dye."
-},
-{
+    "description": "A climbing plant known for its blue flowers, used in traditional medicine and as a natural dye.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/clitoria.png",
+    "fam": "Fabaceae",
+    "othernames": [
+      "Sankupushpam"
+    ]
+  },
+  {
     "becId": "P-1261-11",
     "organismName": "Curcuma mangga",
     "organismCommonName": "Chengazhinirkizhangu",
     "type": "Plant",
     "description": "A type of turmeric species used in traditional medicine and known for its medicinal rhizomes."
-},
-{
+  },
+  {
     "becId": "P-1264-11",
     "organismName": "Curcuma angustifolia",
     "organismCommonName": "Kasthurimanjal",
     "type": "Plant",
     "description": "A species of turmeric known for its rhizomes used in Ayurveda and traditional medicine."
-},
-{
+  },
+  {
     "becId": "P-1267-11",
     "organismName": "Curcuma caesia",
     "organismCommonName": "Chittaratha",
     "type": "Plant",
     "description": "A species of turmeric, used for its medicinal properties in traditional healing practices."
-},
-{
+  },
+  {
     "becId": "P-1270-11",
     "organismName": "Bacopa monnieri",
     "organismCommonName": "Nilappana",
     "type": "Plant",
-    "description": "A medicinal herb used in traditional medicine for its cognitive enhancement and stress-relieving properties."
-},
-{
+    "description": "A medicinal herb used in traditional medicine for its cognitive enhancement and stress-relieving properties.",
+    "becicon": "https://enscygen.github.io/enscygenopenserver/files/becicons/brahmi.png",
+    "fam": "Scrophulariaceae",
+    "othernames": [
+      "Neerbrahmi"
+    ]
+  },
+  {
     "becId": "P-1273-11",
     "organismName": "Aloe vera",
     "organismCommonName": "Jeevakom",
     "type": "Plant",
     "description": "A succulent plant known for its gel, used for skin care, medicinal, and cosmetic purposes."
-},
-{
+  },
+  {
     "becId": "P-1276-11",
     "organismName": "Adhatoda vasica",
     "organismCommonName": "Adapathiyan",
     "type": "Plant",
     "description": "A medicinal plant known for its use in treating respiratory issues, commonly used in traditional medicine."
-},
-{
+  },
+  {
     "becId": "P-1279-11",
     "organismName": "Saraca asoca",
     "organismCommonName": "Asoka",
     "type": "Plant",
     "description": "A tree known for its beautiful flowers and medicinal properties, used in Ayurvedic treatments."
-},
-{
+  },
+  {
     "becId": "P-1282-11",
     "organismName": "Madhuca longifolia",
     "organismCommonName": "Kanjiram",
     "type": "Plant",
     "description": "A tree known for its flowers and edible seeds, traditionally used in local medicine."
-},
-{
+  },
+  {
     "becId": "P-1291-11-8",
     "organismName": "Pongamia pinnata",
     "organismCommonName": "Indian Beech",
     "type": "Plant",
     "description": "A fast-growing, nitrogen-fixing tree valued for its oil-rich seeds, used in biofuel production and traditional medicine."
-}
-
-
-
-
-
-
-
-
-
-
-
-
+  }
 ]
