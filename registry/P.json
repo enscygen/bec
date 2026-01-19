@@ -158,6 +158,8 @@
     "becId": "P-163-11-9",
     "organismName": "Vigna unguiculata",
     "organismCommonName": "Cowpea",
+    "becicon": "cowpea.png",
+        "fam": "Fabaceae",
     "type": "Plant",
     "description": "A legume grown for its edible beans, rich in protein, often used in both human and animal feed."
 },
