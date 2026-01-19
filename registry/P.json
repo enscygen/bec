@@ -960,10 +960,15 @@
   },
   {
     "becId": "P-1144-11",
-    "organismName": "Phaseolus lunatus",
+    "organismName": "Ipomoea muricata",
     "organismCommonName": "Clove Bean",
     "type": "Plant",
-    "description": "A legume known for its edible seeds and used in cooking in various cultures."
+    "description": "A climbing vine known for its edible clove-like fruits and seeds, used in cooking in various cultures.",
+    "becicon": "clovebean.png",
+    "fam": "Convolvulaceae",
+    "othernames": [
+      "Nithya Vazhuthana","lavender moonvine"
+    ]
   },
   {
     "becId": "P-1147-11",
